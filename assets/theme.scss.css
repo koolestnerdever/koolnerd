@@ -4670,7 +4670,7 @@ symbol.icon:not(.icon--full-color) rect {
 .site-nav--has-dropdown.is-focused > a,
 .site-nav--has-dropdown:hover > a {
   color: #1c1d1d !important;
-  background-color: white;
+  /* background-color: white; */
   opacity: 1;
   transition: none; }
 

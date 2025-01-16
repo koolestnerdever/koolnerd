@@ -796,7 +796,7 @@
               "label": "Link url"
             }
           }
-          },
+        },
         "variant_picker": {
           "name": "Variant picker",
           "settings": {

@@ -36,48 +36,57 @@
                {% if has_dropdown or collection_menu %}
                   {% include 'icon-chevron-down' %}
                 {% endif %}
-      </a>
-      {% if collection_menu %}
-        <ul class="site-nav__dropdown text-left">
+      </a>    
+      {% if collection_menu and forloop.index == 1 %}
+        <ul class="collection_menu_main_cover site-nav__dropdown text-left">
           <div class="dropdown-inner">
-              <div class="row">
+              <div class="row collection_menu_inner">
                 {% for block in section.blocks %}
                   {% if block.type == 'menu_collection' %}
                     {% if link.title == block.settings.menu_name %}
-            <li class="youtube-wigs-collection collection-wrap large-6 columns">
-                <a href="/collections/all-products" class="hvr-float ui-button ui-shadow ui-corner-all ui-widget ui-button-inherit" role="button">
-                  <img src="{{  }}" alt="Youtube Wigs">        
-              </a>
-            </li>
-            <li class="skin-care-collection collection-wrap large-6 columns">
-                <a href="/collections/skin-care" class="hvr-float ui-button ui-shadow ui-corner-all ui-widget ui-button-inherit" role="button">
-                  <img src="//belairbeautyclub.com/cdn/shop/collections/full-lace-wigs-min_large.png?v=1706828616" alt="Skin Care">        
-              </a>
-            </li>
-            <li class="mink-bundles-collection collection-wrap large-4 columns">
-                <a href="/collections/facial-cleanser" class="hvr-float ui-button ui-shadow ui-corner-all ui-widget ui-button-inherit" role="button">
-                  <img src="//belairbeautyclub.com/cdn/shop/collections/mink-bundles-min_large.jpg?v=1685406852" alt="Mink Bundles">        
-              </a>
-            </li>
-            <li class="apparel-collection collection-wrap large-4 columns">
-                <a href="/collections/apparel" class="hvr-float ui-button ui-shadow ui-corner-all ui-widget ui-button-inherit" role="button">
-                  <img src="//belairbeautyclub.com/cdn/shop/collections/newdrip-min_large.jpg?v=1686809360" alt="Apparel">        
-              </a>
-            </li>
-            <li class="unstuck-glue-remover-collection collection-wrap large-4 columns">
-                <a href="/collections/unstuck-glue-remover" class="hvr-float ui-button ui-shadow ui-corner-all ui-widget ui-button-inherit" role="button">
-                  <img src="//belairbeautyclub.com/cdn/shop/collections/Disruptor_large.png?v=1686809423" alt="Unstuck Glue Remover">        
-              </a>
-            </li>
-          {% endif %}
-        {% endif %}
-        {% endfor %}
-    </div>
-    </div>
-    </ul>
-        </div>
+                      {% if block.settings.image_1 != blank %}
+                        <li class="collection_menu_image_cover">
+                            <a href="{{ block.settings.link_1 }}" class="collection_menu_link">
+                              <img src="{{ block.settings.image_1 | img_url: '600x' }}">        
+                          </a>
+                        </li>
+                      {% endif %}
+                      {% if block.settings.image_2 != blank %}
+                        <li class="collection_menu_image_cover">
+                            <a href="{{ block.settings.link_2 }}" class="collection_menu_link">
+                              <img src="{{ block.settings.image_2 | img_url: '600x' }}">        
+                          </a>
+                        </li>
+                      {% endif %}
+                      {% if block.settings.image_3 != blank %}
+                      <li class="collection_menu_image_cover">
+                          <a href="{{ block.settings.link_3 }}" class="collection_menu_link">
+                            <img src="{{ block.settings.image_3 | img_url: '600x' }}">        
+                        </a>
+                      </li>
+                      {% endif %}
+                      {% if block.settings.image_4 != blank %}
+                        <li class="collection_menu_image_cover">
+                            <a href="{{ block.settings.link_4 }}" class="collection_menu_link">
+                              <img src="{{ block.settings.image_4 | img_url: '600x' }}">        
+                          </a>
+                        </li>
+                      {% endif %}
+                      {% if block.settings.image_5 != blank %}
+                        <li class="collection_menu_image_cover">
+                            <a href="{{ block.settings.link_5 }}" class="collection_menu_link">
+                              <img src="{{ block.settings.image_5 | img_url: '600x' }}">        
+                          </a>
+                        </li>
+                      {% endif %}
+                    {% endif %}
+                  {% endif %}
+                {% endfor %}
+            </div>
+          </div>
+        </ul>
 
-        {% elsif is_megamenu %}
+      {% elsif is_megamenu %}
           {%- assign previous_column_type = '' -%}
           {%- assign animation_column = 1 -%}
 

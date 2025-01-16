@@ -1,1 +1,574 @@
-{"sections":{"main":{"type":"main-product","blocks":{"vendor":{"type":"text","settings":{"text":"{{ product.vendor }}","text_style":"uppercase"}},"title":{"type":"title","settings":{}},"judge_me_reviews_preview_badge_Xyrdci":{"type":"shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8","settings":{}},"price":{"type":"price","settings":{}},"variant_picker":{"type":"variant_picker","settings":{"picker_type":"button"}},"quantity_selector":{"type":"quantity_selector","settings":{}},"c9efede0-19d1-4974-8efe-567282f91461":{"type":"link_button","settings":{"link_button_title":"Request this wig","link_button_url":"shopify:\/\/pages\/get-special-access"}},"buy_buttons":{"type":"buy_buttons","settings":{"show_dynamic_checkout":true}},"complementary_Y3hK3q":{"type":"complementary","settings":{"block_heading":"Pairs well with","make_collapsible_row":true,"icon":"price_tag","product_list_limit":1,"products_per_page":1,"pagination_style":"counter","image_ratio":"square","enable_quick_add":true}},"description":{"type":"description","settings":{}},"collapsible-row-0":{"type":"collapsible_tab","settings":{"heading":"Details","icon":"leather","content":"<p>Designed to streamline the licensure process for your agency, our all-inclusive package provides everything you need from start to finish. Whether you're establishing a Home Care Agency, Assisted Living Facility, Adult Day Care Center, or a Residential Group Home, our package ensures a smooth and compliant journey toward licensure. We cater to various provider types, including Home Health Agencies, Personal Care Homes, Behavioral Health Facilities, and more. Trust us to deliver the essential tools and guidance needed to achieve and sustain compliance with state regulations, allowing you to focus on delive<\/p>","page":""}},"collapsible-row-2":{"type":"collapsible_tab","settings":{"heading":"Benefits","icon":"star","content":"<p>Initial Free Consultations<\/p><p>Thorough Requirement Analysis<\/p><p>Comply with State Regulations<\/p><p>Expert Documentation Assistance<\/p><p>Seamless Application Filing<\/p><p>Clear Submission Instructions<\/p><p>State Approved Website<\/p><p>Newsletter  <\/p><p>Let us handle the paperwork so you can focus on providing exceptional care.<\/p>","page":""}},"collapsible-row-3":{"type":"collapsible_tab","settings":{"heading":"Care Instructions","icon":"heart","content":"<p>Please book your call above.<\/p>","page":""}},"collapsible-row-1":{"type":"collapsible_tab","settings":{"heading":"Shipping & Returns","icon":"truck","content":"<p>Generic Templates get sent immediately, customizations take 3 to 5 days. Due to the nature of these digital downloads we only offer refunds with 4 hours of purchase.<\/p>","page":""}},"share":{"type":"share","settings":{"share_label":"Share"}},"tz_trust_badges_payments_icon_trust_badge_JEfjxz":{"type":"shopify:\/\/apps\/tz-trust-badges-payments-icon\/blocks\/trust-badge\/539d151e-77d2-4b39-b20d-fbce59dc78c7","settings":{}},"tz_trust_badges_payments_icon_stock_countdown_wJ4k8H":{"type":"shopify:\/\/apps\/tz-trust-badges-payments-icon\/blocks\/stock-countdown\/539d151e-77d2-4b39-b20d-fbce59dc78c7","settings":{}},"tz_trust_badges_payments_icon_shipping_information_QQU8JY":{"type":"shopify:\/\/apps\/tz-trust-badges-payments-icon\/blocks\/shipping-information\/539d151e-77d2-4b39-b20d-fbce59dc78c7","settings":{}}},"block_order":["vendor","title","judge_me_reviews_preview_badge_Xyrdci","price","variant_picker","quantity_selector","c9efede0-19d1-4974-8efe-567282f91461","buy_buttons","complementary_Y3hK3q","description","collapsible-row-0","collapsible-row-2","collapsible-row-3","collapsible-row-1","share","tz_trust_badges_payments_icon_trust_badge_JEfjxz","tz_trust_badges_payments_icon_stock_countdown_wJ4k8H","tz_trust_badges_payments_icon_shipping_information_QQU8JY"],"settings":{"enable_sticky_info":true,"media_position":"left","gallery_layout":"stacked","media_size":"large","mobile_thumbnails":"hide","hide_variants":true,"enable_video_looping":false,"padding_top":36,"padding_bottom":12}},"1736545316f66c4a59":{"type":"apps","settings":{"include_margins":true}},"multicolumn_87Xdqz":{"type":"multicolumn","blocks":{"column_gL4w6b":{"type":"column","settings":{"title":"Simplifying Licensure for Your Healthcare Agency","text":"<p>Securing licensure for your healthcare agency can be a daunting task, but with our tailored consultation services, we simplify every step of the process. Our all-inclusive package ensures a smooth journey toward compliance and peace of mind<\/p>","link_label":"","link":""}},"column_py4GgE":{"type":"column","settings":{"title":"Comprehensive Support and Expertise","text":"<p>With our services, you'll benefit from an initial free consultation to assess your unique needs and goals. We conduct a thorough requirement analysis to align your agency’s operations with state-specific regulations, ensuring every mandate is met. <\/p>","link_label":"","link":""}},"column_iRKYMg":{"type":"column","settings":{"title":"Focus on Care While We Handle the Rest","text":"<p>Let us take the burden of paperwork off your shoulders, allowing you to focus on what truly matters—delivering exceptional care to your clients. Our comprehensive consultation package is more than just a service; it's a partnership designed to help your agency thrive. <\/p>","link_label":"","link":""}}},"block_order":["column_gL4w6b","column_py4GgE","column_iRKYMg"],"custom_css":["@media (max-width: 959px) {.multicolumn-card__image-wrapper {max-width: 120px; margin: 0 auto; }}"],"settings":{"title":"BENEFITS","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"left","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":100,"padding_bottom":100}},"multicolumn_aAhcFK":{"type":"multicolumn","blocks":{"column_VD6ACD":{"type":"column","settings":{"title":"Watermelon","text":"<p><strong>Energy Boost:<\/strong> Refreshing and hydrating.<br\/><strong>Nutrient Rich:<\/strong> vitamin A, C and potassium.<br\/><strong>Low in Calories:<\/strong> great option for a sweet treat with little calories.<\/p>","link_label":"","link":""}},"column_jrkGRy":{"type":"column","settings":{"title":"Pineapple","text":"<p><strong>Rich in nutrients: <\/strong>Vitamin C, manganese, and vitamn B6.<br\/><strong>Bromelain:<\/strong> enzymes that aids in digestion and reduces inflammation.<br\/><strong>Hydrating:<\/strong> Pineapple has a high water content.<\/p>","link_label":"","link":""}},"column_TexYLq":{"type":"column","settings":{"title":"Ginger","text":"<p><strong>Anti-inflammatory:<\/strong> Contains bioactive compounds such as gingerol.<br\/><strong>Antioxidants:<\/strong> Supports immune system.<br\/><strong>Digestive Aid:<\/strong> May relieve nausea & aid in reducing bloating.<\/p>","link_label":"","link":""}},"column_eNADfF":{"type":"column","settings":{"title":"Beets","text":"<p><strong>Heart Health:<\/strong> Can help improves blood flow and lower pressure.<br\/><strong>Antioxidants:<\/strong> Betalains, helps to fight oxidative stress in the body.<br\/><strong>Nutrient- Rich:<\/strong> Folate, vitamin C, potassium, and manganese. They all help with overall health.<\/p>","link_label":"","link":""}},"column_WYVHVy":{"type":"column","settings":{"title":"Cucumber","text":"<p><strong>Hydration:<\/strong> High water content, approximately 95%.<br\/><strong>Low in Calories:<\/strong> Popular choice for those who want to maintain or lose weight. <br\/><strong>Nutrients:<\/strong> Vitamin K, vitamin C, and potassium. <\/p>","link_label":"","link":""}},"column_DPd6QX":{"type":"column","settings":{"title":"Carrots","text":"<p><strong>High in Fiber:<\/strong> Associated with improved digestive health.<br\/><strong>Antioxidants:<\/strong> Beta-carotene which can help combat oxidative stress.<br\/><strong>Nutrients:<\/strong> Vitamin K, vitamin A and potassium.<\/p>","link_label":"","link":""}},"column_D84Qhf":{"type":"column","settings":{"title":"Celery","text":"<p><strong>Hydration & Fiber:<\/strong> High in water content, aids in gut health<br\/><strong>Antioxidants:<\/strong> Flavonoids and vitamin C, which can help protect cells.<br\/><strong>Low in Calories:<\/strong> Great for meals and snacks.<\/p>","link_label":"","link":""}},"column_iwFkWh":{"type":"column","settings":{"title":"Collard Greens","text":"<p><strong>Nutrient- Rich:<\/strong> Vitamin K, C, A, calcium and iron.<br\/><strong>Antioxidants:<\/strong> Lutein and Zeaxanthin. Helps to protect cells from oxidative stress.<br\/><strong>Dietary Fiber:<\/strong> Helps support digestive health by promoting regular bowel movements.<\/p>","link_label":"","link":""}},"column_kfYFRN":{"type":"column","settings":{"title":"Mango","text":"<p><strong>Vitamins & Minerals:<\/strong> Vitamin C,A, and folate. <br\/><strong>Antioxidants:<\/strong> Beta-carotene and flavonoids<br\/><strong>Dietary Fiber:<\/strong> Fiber rich. Can help with feeling full which helps with maintaining weight.<\/p>","link_label":"","link":""}},"column_bYAtif":{"type":"column","settings":{"title":"Kiwi","text":"<p><strong>Nutrients:<\/strong> Excellent source of vitamin C. Boosts immune.<br\/><strong>Antioxidants:<\/strong> Vitamin C, E & polyphenols.<br\/><strong>Heart Health:<\/strong> Contains potassium which helps to regulate blood pressure.<\/p>","link_label":"","link":""}},"column_iAXiPJ":{"type":"column","settings":{"title":"Grapes","text":"<p><strong>Nutrient:<\/strong> Vitamin B, K, C. Helps blood clotting & energy metabolism.<br\/><strong>Antioxidants:<\/strong> Reservatol, flavonoids & quercetin.<br\/><strong>Hydration:<\/strong> High in water content and low in calories.<\/p>","link_label":"","link":""}},"column_zEYfbp":{"type":"column","settings":{"title":"Hibiscus","text":"<p><strong>Rich in Antioxidants:<\/strong> Anthocyanins helps protect the body from oxidative stress.<br\/><strong>Digestive Health:<\/strong> Mild diuretic properties. <br\/><strong>Potential Blood Pressure:<\/strong> May help lower blood pressure.<\/p>","link_label":"","link":""}},"column_kfJPHX":{"type":"column","settings":{"title":"Tamarind","text":"<p><strong>Nutrient-Rich:<\/strong> Vitamin C, B, magnesium, iron, and potassium. <br\/><strong>Antioxidants:<\/strong> Polyphenols, flavonoids which helps protect oxidative stress.<br\/><strong>Digestive Health:<\/strong> Dietary fiber which aids in digestion.<\/p>","link_label":"","link":""}},"column_BHt97y":{"type":"column","settings":{"title":"Pear","text":"<p><strong>Rich in Vitamins:<\/strong> Vitamin C, K and antioxidants. These nutrients can support immune function and skin health.<br\/><strong>Hydration:<\/strong> High water content. <strong>High in Fiber: <\/strong>Can promote regular bowel movements. <\/p>","link_label":"","link":""}},"column_j7cwE3":{"type":"column","settings":{"title":"Canteloupe","text":"<p><strong>Hydration:<\/strong> High water count, about 90% of it's weight. <br\/><strong>Rich in Nutrients:<\/strong> Vitamin A, C, helps to maintain healthy skin, vision & immune function.<br\/><strong>Low in Calories:<\/strong> Great snack option for weight loss. <\/p>","link_label":"","link":""}},"column_bxdjNV":{"type":"column","settings":{"title":"Strawberry","text":"<p><strong>Nutrients:<\/strong> Vitamin C, Folate and potassium.<br\/><strong>Antioxidants:<\/strong> Anthocyanins, ellagic acid and quercetin. <br\/><strong>Heart Health:<\/strong> May help lower blood pressure, and reduce cholesterol levels.<\/p>","link_label":"","link":""}}},"block_order":["column_VD6ACD","column_jrkGRy","column_TexYLq","column_eNADfF","column_WYVHVy","column_DPd6QX","column_D84Qhf","column_iwFkWh","column_kfYFRN","column_bYAtif","column_iAXiPJ","column_zEYfbp","column_kfJPHX","column_BHt97y","column_j7cwE3","column_bxdjNV"],"disabled":true,"settings":{"title":"KEY INGREDIENTS","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":4,"column_alignment":"left","background_style":"none","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"2","swipe_on_mobile":false,"padding_top":100,"padding_bottom":100}},"image-with-text":{"type":"image-with-text","blocks":{"image-with-text-0":{"type":"heading","settings":{"heading":"Risk-Free Guarantee","heading_size":"h1"}},"image-with-text-1":{"type":"text","settings":{"text":"<p>Your satisfaction is our top priority. If you're not completely happy with our services, we offer a no-questions-asked money-back policy. We've got you covered!<\/p>","text_style":"body"}}},"block_order":["image-with-text-0","image-with-text-1"],"settings":{"image":"shopify:\/\/shop_images\/IMG_1913_3a6b1766-b662-4e77-88a1-f33913079412.jpg","height":"small","desktop_image_width":"medium","layout":"text_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"background-2","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"multicolumn":{"type":"multicolumn","blocks":{"column-0":{"type":"column","settings":{"title":"Join Our Community","text":"<p>At the heart of our mission is a vibrant and supportive community dedicated to empowering individuals and businesses in the in-home healthcare industry. Our community isn’t just about providing resources; it’s about fostering connections, sharing knowledge, and celebrating successes together.<\/p>","link_label":"","link":""}},"column-1":{"type":"column","settings":{"title":"Funding Support for Your Homecare Company","text":"<p>Ready to elevate your homecare business to new heights? Our funding solutions provide tailored support to help you establish and grow your agency. With personalized guidance and expertise, we’ll assist you in unlocking the financial resources needed to thrive. Whether you're just starting or looking to expand, we’re here to help you build a strong foundation for long-term success in the homecare industry.<\/p>","link_label":"","link":""}}},"block_order":["column-0","column-1"],"settings":{"title":"","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":2,"column_alignment":"left","background_style":"none","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"product-recommendations":{"type":"product-recommendations","settings":{"heading":"Frequently Bought Together","heading_size":"h2","products_to_show":4,"columns_desktop":4,"color_scheme":"background-1","image_ratio":"square","show_secondary_image":true,"show_vendor":false,"show_rating":false,"columns_mobile":"2","padding_top":36,"padding_bottom":28}},"168347226939422fcd":{"type":"apps","settings":{"include_margins":true}},"1736545921cdecc442":{"type":"apps","settings":{"include_margins":true}},"testimonials_qLLPi6":{"type":"testimonials","blocks":{"testimonial_WHmxb9":{"type":"testimonial","settings":{"testimonial":"<p>Got to try Divine Luminance at a festival, and wow, these juices are next level! I loved how they walked us through the ingredients and benefits—plus, no fake stuff in it at all. So good!<\/p>","author":"Jess P."}},"testimonial_npg9Ch":{"type":"testimonial","settings":{"testimonial":"<p>Divine Luminance juices are my new obsession. First tried them at an event, and the team was super cool about explaining the benefits. It tastes awesome and actually makes me feel healthier<\/p>","author":"Rachel W."}},"testimonial_kUxaAe":{"type":"testimonial","settings":{"testimonial":"<p>Tried a sample at a wellness fair, and I’m hooked! You can taste the realness in every sip. Loved that they shared how each ingredient helps my body—definitely sticking with Divine Luminance.<\/p>","author":"Dominique F."}},"testimonial_dyQTUW":{"type":"testimonial","settings":{"testimonial":"<p>Did a 3-day cleanse with Divine Luminance, and I felt amazing the whole time! Their team gave me all the tips and support, and the flavors are so fresh. No weird sweeteners, just real juice<\/p>","author":"Dana L."}},"testimonial_mpUA9C":{"type":"testimonial","settings":{"testimonial":"<p>These juices are fire! I tried them at an event and ended up learning so much about the ingredients. Love that they keep it real with no artificial junk—just pure, healthy vibes.<\/p>","author":"Carlos T."}}},"block_order":["testimonial_WHmxb9","testimonial_npg9Ch","testimonial_kUxaAe","testimonial_dyQTUW","testimonial_mpUA9C"],"disabled":true,"settings":{"title":"Testimonials","align_text":"left","round_images":false,"divider":false}},"171638803823e93dba":{"type":"apps","settings":{"include_margins":true}},"17366999194256565f":{"type":"apps","blocks":{"judge_me_reviews_review_widget_eTDQBK":{"type":"shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8","settings":{}}},"block_order":["judge_me_reviews_review_widget_eTDQBK"],"settings":{"include_margins":true}},"173679439461836fd9":{"type":"apps","blocks":{"tz_trust_badges_payments_icon_payment_badge_HbUQWt":{"type":"shopify:\/\/apps\/tz-trust-badges-payments-icon\/blocks\/payment-badge\/539d151e-77d2-4b39-b20d-fbce59dc78c7","settings":{}}},"block_order":["tz_trust_badges_payments_icon_payment_badge_HbUQWt"],"settings":{"include_margins":true}}},"order":["main","1736545316f66c4a59","multicolumn_87Xdqz","multicolumn_aAhcFK","image-with-text","multicolumn","product-recommendations","168347226939422fcd","1736545921cdecc442","testimonials_qLLPi6","171638803823e93dba","17366999194256565f","173679439461836fd9"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "c9efede0-19d1-4974-8efe-567282f91461": {
+          "type": "link_button",
+          "settings": {
+            "link_button_title": "Request this wig",
+            "link_button_url": "shopify:\/\/pages\/get-special-access"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "complementary_Y3hK3q": {
+          "type": "complementary",
+          "settings": {
+            "block_heading": "Pairs well with",
+            "make_collapsible_row": true,
+            "icon": "price_tag",
+            "product_list_limit": 1,
+            "products_per_page": 1,
+            "pagination_style": "counter",
+            "image_ratio": "square",
+            "enable_quick_add": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "collapsible-row-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Details",
+            "icon": "leather",
+            "content": "<p>Designed to streamline the licensure process for your agency, our all-inclusive package provides everything you need from start to finish. Whether you're establishing a Home Care Agency, Assisted Living Facility, Adult Day Care Center, or a Residential Group Home, our package ensures a smooth and compliant journey toward licensure. We cater to various provider types, including Home Health Agencies, Personal Care Homes, Behavioral Health Facilities, and more. Trust us to deliver the essential tools and guidance needed to achieve and sustain compliance with state regulations, allowing you to focus on delive<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible-row-2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Benefits",
+            "icon": "star",
+            "content": "<p>Initial Free Consultations<\/p><p>Thorough Requirement Analysis<\/p><p>Comply with State Regulations<\/p><p>Expert Documentation Assistance<\/p><p>Seamless Application Filing<\/p><p>Clear Submission Instructions<\/p><p>State Approved Website<\/p><p>Newsletter  <\/p><p>Let us handle the paperwork so you can focus on providing exceptional care.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible-row-3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Care Instructions",
+            "icon": "heart",
+            "content": "<p>Please book your call above.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible-row-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shipping & Returns",
+            "icon": "truck",
+            "content": "<p>Generic Templates get sent immediately, customizations take 3 to 5 days. Due to the nature of these digital downloads we only offer refunds with 4 hours of purchase.<\/p>",
+            "page": ""
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "c9efede0-19d1-4974-8efe-567282f91461",
+        "buy_buttons",
+        "complementary_Y3hK3q",
+        "description",
+        "collapsible-row-0",
+        "collapsible-row-2",
+        "collapsible-row-3",
+        "collapsible-row-1",
+        "share"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_position": "left",
+        "gallery_layout": "stacked",
+        "media_size": "large",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "1736545316f66c4a59": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "multicolumn_87Xdqz": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_gL4w6b": {
+          "type": "column",
+          "settings": {
+            "title": "Simplifying Licensure for Your Healthcare Agency",
+            "text": "<p>Securing licensure for your healthcare agency can be a daunting task, but with our tailored consultation services, we simplify every step of the process. Our all-inclusive package ensures a smooth journey toward compliance and peace of mind<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_py4GgE": {
+          "type": "column",
+          "settings": {
+            "title": "Comprehensive Support and Expertise",
+            "text": "<p>With our services, you'll benefit from an initial free consultation to assess your unique needs and goals. We conduct a thorough requirement analysis to align your agency’s operations with state-specific regulations, ensuring every mandate is met. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_iRKYMg": {
+          "type": "column",
+          "settings": {
+            "title": "Focus on Care While We Handle the Rest",
+            "text": "<p>Let us take the burden of paperwork off your shoulders, allowing you to focus on what truly matters—delivering exceptional care to your clients. Our comprehensive consultation package is more than just a service; it's a partnership designed to help your agency thrive. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_gL4w6b",
+        "column_py4GgE",
+        "column_iRKYMg"
+      ],
+      "custom_css": [
+        "@media (max-width: 959px) {.multicolumn-card__image-wrapper {max-width: 120px; margin: 0 auto; }}"
+      ],
+      "settings": {
+        "title": "BENEFITS",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "multicolumn_aAhcFK": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_VD6ACD": {
+          "type": "column",
+          "settings": {
+            "title": "Watermelon",
+            "text": "<p><strong>Energy Boost:<\/strong> Refreshing and hydrating.<br\/><strong>Nutrient Rich:<\/strong> vitamin A, C and potassium.<br\/><strong>Low in Calories:<\/strong> great option for a sweet treat with little calories.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_jrkGRy": {
+          "type": "column",
+          "settings": {
+            "title": "Pineapple",
+            "text": "<p><strong>Rich in nutrients: <\/strong>Vitamin C, manganese, and vitamn B6.<br\/><strong>Bromelain:<\/strong> enzymes that aids in digestion and reduces inflammation.<br\/><strong>Hydrating:<\/strong> Pineapple has a high water content.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_TexYLq": {
+          "type": "column",
+          "settings": {
+            "title": "Ginger",
+            "text": "<p><strong>Anti-inflammatory:<\/strong> Contains bioactive compounds such as gingerol.<br\/><strong>Antioxidants:<\/strong> Supports immune system.<br\/><strong>Digestive Aid:<\/strong> May relieve nausea & aid in reducing bloating.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_eNADfF": {
+          "type": "column",
+          "settings": {
+            "title": "Beets",
+            "text": "<p><strong>Heart Health:<\/strong> Can help improves blood flow and lower pressure.<br\/><strong>Antioxidants:<\/strong> Betalains, helps to fight oxidative stress in the body.<br\/><strong>Nutrient- Rich:<\/strong> Folate, vitamin C, potassium, and manganese. They all help with overall health.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_WYVHVy": {
+          "type": "column",
+          "settings": {
+            "title": "Cucumber",
+            "text": "<p><strong>Hydration:<\/strong> High water content, approximately 95%.<br\/><strong>Low in Calories:<\/strong> Popular choice for those who want to maintain or lose weight. <br\/><strong>Nutrients:<\/strong> Vitamin K, vitamin C, and potassium. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_DPd6QX": {
+          "type": "column",
+          "settings": {
+            "title": "Carrots",
+            "text": "<p><strong>High in Fiber:<\/strong> Associated with improved digestive health.<br\/><strong>Antioxidants:<\/strong> Beta-carotene which can help combat oxidative stress.<br\/><strong>Nutrients:<\/strong> Vitamin K, vitamin A and potassium.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_D84Qhf": {
+          "type": "column",
+          "settings": {
+            "title": "Celery",
+            "text": "<p><strong>Hydration & Fiber:<\/strong> High in water content, aids in gut health<br\/><strong>Antioxidants:<\/strong> Flavonoids and vitamin C, which can help protect cells.<br\/><strong>Low in Calories:<\/strong> Great for meals and snacks.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_iwFkWh": {
+          "type": "column",
+          "settings": {
+            "title": "Collard Greens",
+            "text": "<p><strong>Nutrient- Rich:<\/strong> Vitamin K, C, A, calcium and iron.<br\/><strong>Antioxidants:<\/strong> Lutein and Zeaxanthin. Helps to protect cells from oxidative stress.<br\/><strong>Dietary Fiber:<\/strong> Helps support digestive health by promoting regular bowel movements.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_kfYFRN": {
+          "type": "column",
+          "settings": {
+            "title": "Mango",
+            "text": "<p><strong>Vitamins & Minerals:<\/strong> Vitamin C,A, and folate. <br\/><strong>Antioxidants:<\/strong> Beta-carotene and flavonoids<br\/><strong>Dietary Fiber:<\/strong> Fiber rich. Can help with feeling full which helps with maintaining weight.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_bYAtif": {
+          "type": "column",
+          "settings": {
+            "title": "Kiwi",
+            "text": "<p><strong>Nutrients:<\/strong> Excellent source of vitamin C. Boosts immune.<br\/><strong>Antioxidants:<\/strong> Vitamin C, E & polyphenols.<br\/><strong>Heart Health:<\/strong> Contains potassium which helps to regulate blood pressure.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_iAXiPJ": {
+          "type": "column",
+          "settings": {
+            "title": "Grapes",
+            "text": "<p><strong>Nutrient:<\/strong> Vitamin B, K, C. Helps blood clotting & energy metabolism.<br\/><strong>Antioxidants:<\/strong> Reservatol, flavonoids & quercetin.<br\/><strong>Hydration:<\/strong> High in water content and low in calories.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_zEYfbp": {
+          "type": "column",
+          "settings": {
+            "title": "Hibiscus",
+            "text": "<p><strong>Rich in Antioxidants:<\/strong> Anthocyanins helps protect the body from oxidative stress.<br\/><strong>Digestive Health:<\/strong> Mild diuretic properties. <br\/><strong>Potential Blood Pressure:<\/strong> May help lower blood pressure.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_kfJPHX": {
+          "type": "column",
+          "settings": {
+            "title": "Tamarind",
+            "text": "<p><strong>Nutrient-Rich:<\/strong> Vitamin C, B, magnesium, iron, and potassium. <br\/><strong>Antioxidants:<\/strong> Polyphenols, flavonoids which helps protect oxidative stress.<br\/><strong>Digestive Health:<\/strong> Dietary fiber which aids in digestion.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_BHt97y": {
+          "type": "column",
+          "settings": {
+            "title": "Pear",
+            "text": "<p><strong>Rich in Vitamins:<\/strong> Vitamin C, K and antioxidants. These nutrients can support immune function and skin health.<br\/><strong>Hydration:<\/strong> High water content. <strong>High in Fiber: <\/strong>Can promote regular bowel movements. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_j7cwE3": {
+          "type": "column",
+          "settings": {
+            "title": "Canteloupe",
+            "text": "<p><strong>Hydration:<\/strong> High water count, about 90% of it's weight. <br\/><strong>Rich in Nutrients:<\/strong> Vitamin A, C, helps to maintain healthy skin, vision & immune function.<br\/><strong>Low in Calories:<\/strong> Great snack option for weight loss. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_bxdjNV": {
+          "type": "column",
+          "settings": {
+            "title": "Strawberry",
+            "text": "<p><strong>Nutrients:<\/strong> Vitamin C, Folate and potassium.<br\/><strong>Antioxidants:<\/strong> Anthocyanins, ellagic acid and quercetin. <br\/><strong>Heart Health:<\/strong> May help lower blood pressure, and reduce cholesterol levels.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_VD6ACD",
+        "column_jrkGRy",
+        "column_TexYLq",
+        "column_eNADfF",
+        "column_WYVHVy",
+        "column_DPd6QX",
+        "column_D84Qhf",
+        "column_iwFkWh",
+        "column_kfYFRN",
+        "column_bYAtif",
+        "column_iAXiPJ",
+        "column_zEYfbp",
+        "column_kfJPHX",
+        "column_BHt97y",
+        "column_j7cwE3",
+        "column_bxdjNV"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "KEY INGREDIENTS",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "image-with-text": {
+      "type": "image-with-text",
+      "blocks": {
+        "image-with-text-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Risk-Free Guarantee",
+            "heading_size": "h1"
+          }
+        },
+        "image-with-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Your satisfaction is our top priority. If you're not completely happy with our services, we offer a no-questions-asked money-back policy. We've got you covered!<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "image-with-text-0",
+        "image-with-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_1913_3a6b1766-b662-4e77-88a1-f33913079412.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column-0": {
+          "type": "column",
+          "settings": {
+            "title": "Join Our Community",
+            "text": "<p>At the heart of our mission is a vibrant and supportive community dedicated to empowering individuals and businesses in the in-home healthcare industry. Our community isn’t just about providing resources; it’s about fostering connections, sharing knowledge, and celebrating successes together.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Funding Support for Your Homecare Company",
+            "text": "<p>Ready to elevate your homecare business to new heights? Our funding solutions provide tailored support to help you establish and grow your agency. With personalized guidance and expertise, we’ll assist you in unlocking the financial resources needed to thrive. Whether you're just starting or looking to expand, we’re here to help you build a strong foundation for long-term success in the homecare industry.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column-0",
+        "column-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "Frequently Bought Together",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "168347226939422fcd": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1736545921cdecc442": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "testimonials_qLLPi6": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_WHmxb9": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>Got to try Divine Luminance at a festival, and wow, these juices are next level! I loved how they walked us through the ingredients and benefits—plus, no fake stuff in it at all. So good!<\/p>",
+            "author": "Jess P."
+          }
+        },
+        "testimonial_npg9Ch": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>Divine Luminance juices are my new obsession. First tried them at an event, and the team was super cool about explaining the benefits. It tastes awesome and actually makes me feel healthier<\/p>",
+            "author": "Rachel W."
+          }
+        },
+        "testimonial_kUxaAe": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>Tried a sample at a wellness fair, and I’m hooked! You can taste the realness in every sip. Loved that they shared how each ingredient helps my body—definitely sticking with Divine Luminance.<\/p>",
+            "author": "Dominique F."
+          }
+        },
+        "testimonial_dyQTUW": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>Did a 3-day cleanse with Divine Luminance, and I felt amazing the whole time! Their team gave me all the tips and support, and the flavors are so fresh. No weird sweeteners, just real juice<\/p>",
+            "author": "Dana L."
+          }
+        },
+        "testimonial_mpUA9C": {
+          "type": "testimonial",
+          "settings": {
+            "testimonial": "<p>These juices are fire! I tried them at an event and ended up learning so much about the ingredients. Love that they keep it real with no artificial junk—just pure, healthy vibes.<\/p>",
+            "author": "Carlos T."
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_WHmxb9",
+        "testimonial_npg9Ch",
+        "testimonial_kUxaAe",
+        "testimonial_dyQTUW",
+        "testimonial_mpUA9C"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Testimonials",
+        "align_text": "left",
+        "round_images": false,
+        "divider": false
+      }
+    },
+    "171638803823e93dba": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "17366999194256565f": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "173679439461836fd9": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1736545316f66c4a59",
+    "multicolumn_87Xdqz",
+    "multicolumn_aAhcFK",
+    "image-with-text",
+    "multicolumn",
+    "product-recommendations",
+    "168347226939422fcd",
+    "1736545921cdecc442",
+    "testimonials_qLLPi6",
+    "171638803823e93dba",
+    "17366999194256565f",
+    "173679439461836fd9"
+  ]
+}

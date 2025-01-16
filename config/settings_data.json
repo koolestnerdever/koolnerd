@@ -1,1 +1,651 @@
-{"current":{"password":"dfa1daa98d612fd5f03f478d881123ae","color_body_bg":"#f8f3ef","color_body_text":"#f8f3ef","color_cart_dot":"#f8f3ef","color_header":"#1c1d1d","color_header_text":"#000000","color_footer":"#c60000","color_footer_text":"#000000","color_drawer_border":"#ffffff","color_drawer_button":"#f1c139","color_drawer_button_text":"#000000","color_modal_overlays":"#ffffff","collection_grid_shape":"square","type_header_font_family":"montserrat_n4","type_header_spacing":"25","type_header_base_size":32,"type_header_line_height":1.4,"type_base_font_family":"montserrat_n4","type_base_spacing":"50","type_base_size":16,"type_base_line_height":1.4,"type_navigation_size":16,"type_header_font":"montserrat_n4","heading_scale":100,"type_body_font":"montserrat_n4","body_scale":100,"page_width":1500,"spacing_sections":0,"spacing_grid_horizontal":40,"spacing_grid_vertical":4,"buttons_border_thickness":1,"buttons_border_opacity":100,"buttons_radius":0,"buttons_shadow_opacity":0,"buttons_shadow_horizontal_offset":0,"buttons_shadow_vertical_offset":4,"buttons_shadow_blur":5,"variant_pills_border_thickness":1,"variant_pills_border_opacity":55,"variant_pills_radius":40,"variant_pills_shadow_opacity":0,"variant_pills_shadow_horizontal_offset":0,"variant_pills_shadow_vertical_offset":4,"variant_pills_shadow_blur":5,"inputs_border_thickness":1,"inputs_border_opacity":55,"inputs_radius":0,"inputs_shadow_opacity":0,"inputs_shadow_horizontal_offset":0,"inputs_shadow_vertical_offset":4,"inputs_shadow_blur":5,"card_style":"standard","card_image_padding":0,"card_text_alignment":"left","card_color_scheme":"background-2","card_border_thickness":0,"card_border_opacity":10,"card_corner_radius":0,"card_shadow_opacity":0,"card_shadow_horizontal_offset":0,"card_shadow_vertical_offset":4,"card_shadow_blur":5,"collection_card_style":"standard","collection_card_image_padding":0,"collection_card_text_alignment":"left","collection_card_color_scheme":"background-1","collection_card_border_thickness":0,"collection_card_border_opacity":10,"collection_card_corner_radius":0,"collection_card_shadow_opacity":0,"collection_card_shadow_horizontal_offset":0,"collection_card_shadow_vertical_offset":4,"collection_card_shadow_blur":5,"blog_card_style":"standard","blog_card_image_padding":0,"blog_card_text_alignment":"left","blog_card_color_scheme":"background-2","blog_card_border_thickness":0,"blog_card_border_opacity":10,"blog_card_corner_radius":0,"blog_card_shadow_opacity":0,"blog_card_shadow_horizontal_offset":0,"blog_card_shadow_vertical_offset":4,"blog_card_shadow_blur":5,"text_boxes_border_thickness":0,"text_boxes_border_opacity":10,"text_boxes_radius":0,"text_boxes_shadow_opacity":0,"text_boxes_shadow_horizontal_offset":0,"text_boxes_shadow_vertical_offset":4,"text_boxes_shadow_blur":5,"media_border_thickness":1,"media_border_opacity":5,"media_radius":0,"media_shadow_opacity":0,"media_shadow_horizontal_offset":0,"media_shadow_vertical_offset":4,"media_shadow_blur":5,"popup_border_thickness":1,"popup_border_opacity":10,"popup_corner_radius":0,"popup_shadow_opacity":0,"popup_shadow_horizontal_offset":0,"popup_shadow_vertical_offset":4,"popup_shadow_blur":5,"drawer_border_thickness":1,"drawer_border_opacity":10,"drawer_shadow_opacity":0,"drawer_shadow_horizontal_offset":0,"drawer_shadow_vertical_offset":4,"drawer_shadow_blur":5,"badge_position":"bottom left","badge_corner_radius":40,"sale_badge_color_scheme":"accent-2","sold_out_badge_color_scheme":"inverse","accent_icons":"text","social_twitter_link":"","social_facebook_link":"","social_pinterest_link":"","social_instagram_link":"","social_tiktok_link":"","social_tumblr_link":"","social_snapchat_link":"","social_youtube_link":"","social_vimeo_link":"","predictive_search_enabled":true,"predictive_search_show_vendor":false,"predictive_search_show_price":false,"favicon":"shopify:\/\/shop_images\/Decrease_turnaround_time_for_getting_answers_to_questions.svg","currency_code_enabled":true,"html":"<style>\n@import url('https:\/\/fonts.googleapis.com\/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');\n@font-face {\n    font-family: 'bebas_neueregular';\n    src: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/bebasneue-regular-webfont_1.woff2?v=1730098731') format('woff2'),\n         url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/bebasneue-regular-webfont_1.woff?v=1730098732') format('woff');\n    font-weight: normal;\n    font-style: normal;\n\n}\n@font-face {\n    font-family: 'texgyreadventorregular';\n    src: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/texgyreadventor-regular-webfont_1.woff2?v=1730098791') format('woff2'),\n         url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/texgyreadventor-regular-webfont.woff?v=1730098792') format('woff');\n    font-weight: normal;\n    font-style: normal;\n}\n\n\n@font-face {\n    font-family: 'FONTSPRING DEMO - Bebas Neue Pro reguler';\n    src: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/FONTSPRINGDEMO-BebasNeueProRegular.woff2?v=1730095734') format('woff2'),\n        url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/FONTSPRINGDEMO-BebasNeueProRegular.woff?v=1730095734') format('woff');\n    font-weight: normal;\n    font-style: normal;\n    font-display: swap;\n}\n\n\n\n@font-face {\n    font-family: 'FONTSPRING DEMO - Bebas Neue Pro Middle';\n    src: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/FONTSPRINGDEMO-BebasNeueProMiddleRegular.woff2?v=1730090569') format('woff2'),\n        url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/FONTSPRINGDEMO-BebasNeueProMiddleRegular.woff?v=1730090568') format('woff');\n    font-weight: normal;\n    font-style: normal;\n    font-display: swap;\n}\n\n@font-face {\n    font-family: 'FONTSPRING DEMO - Bebas Neue Pro bold';\n    src: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/FONTSPRINGDEMO-BebasNeueProBold.woff2?v=1730090575') format('woff2'),\n        url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/FONTSPRINGDEMO-BebasNeueProBold.woff?v=1730090575') format('woff');\n    font-weight: bold;\n    font-style: normal;\n    font-display: swap;\n}\n\n@font-face {\n    font-family: 'AmsiProCond';\n    src: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/AmsiProCond-Regular.woff2?v=1730090770') format('woff2'),\n        url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/AmsiProCond-Regular.woff?v=1730090770') format('woff');\n    font-weight: normal;\n    font-style: normal;\n    font-display: swap;\n}\n\n@font-face {\n    font-family: 'AmsiProCond-bold';\n    src: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/AmsiProCond-Bold.woff2?v=1730090770') format('woff2'),\n        url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/AmsiProCond-Bold.woff?v=1730090771') format('woff');\n    font-weight: bold;\n    font-style: normal;\n    font-display: swap;\n}\n\n@font-face {\n    font-family: 'CocogooseProTrial Semilight';\n    src: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/CocogooseProTrial-Semilight.woff2?v=1730090770') format('woff2'),\n        url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/CocogooseProTrial-Semilight.woff?v=1730090770') format('woff');\n    font-weight: 300;\n    font-style: normal;\n    font-display: swap;\n}\n\n@font-face {\n    font-family: 'AmsiProCond-Black';\n    src: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/AmsiProCond-Black.woff2?v=1730090770') format('woff2'),\n        url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/AmsiProCond-Black.woff?v=1730090770') format('woff');\n    font-weight: 900;\n    font-style: normal;\n    font-display: swap;\n}\n\n#shopify-section-template--16484092477514__featured_collection_PFYGPk .gradient{\nbackground: #f2f3ec;\n}\n#shopify-section-template--16484092477514__featured_collection_PFYGPk .collection__title{\n    display: flex;\n    justify-content: center;\n\n}\n#shopify-section-template--16484092477514__featured_collection_PFYGPk .collection__title .title {\ncolor: #000;\n    background-image: linear-gradient(0deg, #000 56%, #fff 100%);\n    background-clip: text;\n    -webkit-background-clip: text;\n    -webkit-text-fill-color: transparent;\n    font-family: 'AmsiProCond-Black';\n    font-size: 60px;\n    text-align: center;\n    position: relative;\ndisplay: inline-block;\n    padding-bottom: 15px;\nline-height:1;\n}\n#shopify-section-template--16484092477514__featured_collection_PFYGPk .collection__title .title:after{\ncontent:'';\nposition: absolute;\n    top: 100%;\n    left: 50%;\n    width: 70%;\n    height: 6px;\n    background: linear-gradient(180deg, rgba(138,170,60,1) 39%, rgba(86,116,11,1) 92%);\n\n    transform: translateX(-50%);\n}\n\n\n#shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn {\n    background-color: #f2f3ec;\n    background-image: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/banner.png?v=1730093369);\n    background-size: cover;\n    width: 100%;\n    height: 100%;\n    background-repeat: no-repeat;\n    background-position: top;\nbackground-attachment: unset;\n--grid-desktop-horizontal-spacing: 0px;\nposition: relative;\n}\n#shopify-section-template--16484092477514__multicolumn_RtjUhi .page-width{\nmax-width:800px;\nz-index: 1;\n}\n#shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn-card-spacing{\n    max-width: 200px;\n    margin: 0 auto;\n    padding: 0;\nborder-radius: 50px;\n    margin-bottom: 20px;\n}\n#shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn .title-wrapper-with-link{\ndisplay:flex;\njustify-content: center;\nmargin:50px 0; \ntext-align:center;\n}\n#shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn .title{\nfont-family: 'AmsiProCond';\nfont-size:60px;\nfont-weight: normal;\ntext-transform:uppercase;\nline-height:1;\n}\n#shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn .title .heading_inner_text{\nfont-family: 'AmsiProCond-Black';\n}\n#shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn .title,\n#shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn-list h3, .multicolumn-list p{\ncolor:#000;\n}\n#shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn-list h3{\n    font-family: 'CocogooseProTrial Semilight';\n    font-size: 18px;\n    font-weight: normal;\n    text-transform: uppercase;\n    line-height: normal;\n    letter-spacing: normal;\n}\n#shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn .button{\ncolor: #000;\n    max-width: 78%;\n    width: 100%;\n    border-radius: 30px;\n    margin-top: 50px;\n    font-size: 25px;\n    letter-spacing: 4px;\n    font-weight: normal;\n    font-family: 'AmsiProCond';\n    line-height: normal;\n    background: #fff8c4;\n    padding-bottom: 7px;\n    min-height: 46px;\n}\n#shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn-card__info{\npadding-left:10px;\npadding-right:10px;\n}\n#shopify-section-template--16484092477514__multicolumn_RtjUhi .grid:after{\ndisplay:none;\n}\n#shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn:after{\ncontent:'';\n    background: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/red-juice.png?v=1730093547);\n    width: 224px;\n    height: 289px;\n    position: absolute;\n    top: -50px;\n    right: 150px;\n    background-size: cover;\n    background-position: center;\n    background-repeat: no-repeat;\n}\n\n\n#shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn-card{\n    background:#ffffff;\n    border-radius: 25px; \nbox-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;\n    }\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn-card-spacing{\n    margin: 0;\n        padding-top: 0; \n    }\n    \n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn-card__image-wrapper .media{\n    border-radius: 20px 20px 0 0;\n    }\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn-card__info *{\n    color:#12120f;\n    }\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn-card__info p{\n    font-weight:500;\n    font-size: 16px;\n        letter-spacing: 0;\n    }\n    \n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn-card__info h3{\n    font-family: 'FONTSPRING DEMO - Bebas Neue Pro reguler';\n    font-size:22px;\n    font-weight: normal;\n    text-transform:uppercase;\n    }\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .grid:after{\n    display:none;\n    }\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn {\n    --grid-desktop-horizontal-spacing: 0px; \n    --grid-desktop-vertical-spacing: 40px;\n   background: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/banner_three.png?v=1730095112);\n    }\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn .title-wrapper-with-link{\n    display: flex;\n        justify-content: center;\n    margin-bottom:70px;\n    } \n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn .title-wrapper-with-link .title{\n    position: relative;\n    padding-bottom: 40px;\n    font-size: 60px;\n    font-weight: normal;\n    text-align: center;\n    text-transform: uppercase;\n    letter-spacing: normal;\n    font-family: 'AmsiProCond';\nline-height:1;\n    }\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn .title-wrapper-with-link .title:after{\n    content:'';\n    width:25%;\n    height: 5px;\n    background: #fa3738; \n    position: absolute;\n    top: 100%;\n    left: 50%;\n    transform: translateX(-50%);\n    }\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn .title-wrapper-with-link .title .heading_inner{\n    color:#87920d;\n    font-family: 'AmsiProCond-bold';\n    }\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn .button{\n        width: calc(100%  - 30px);\n    border-radius: 30px;\n    font-family: AmsiProCond;\n    font-size: 30px;\n    font-weight: 700;\n    letter-spacing: 4px;\n    background: #bccd14;\n    padding-bottom: 7px;\n    }\n#shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn-list .multicolumn-list__item{\nmargin-bottom:40px;\n}\n\n\n#shopify-section-template--16484092477514__collection_list_Abj9mp .collection_list{\n    background-image: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/banner_two.jpg?v=1730098263);\n    background-size: cover;\n    width: 100%;\n    height: 100%;\n    background-repeat: no-repeat;\n    background-position: center;\n    background-attachment: unset;\n--grid-desktop-horizontal-spacing:0px;\n}\n\n#shopify-section-template--16484092477514__collection_list_Abj9mp .page-width{\nmax-width:1100px;\n}\n#shopify-section-template--16484092477514__collection_list_Abj9mp .card__inner .card__media{\nborder-radius: 20px;\n}\n#shopify-section-template--16484092477514__collection_list_Abj9mp .card__inner {\nborder-radius: 40px;\n}\n#shopify-section-template--16484092477514__collection_list_Abj9mp .card--standard.card--media .card__inner .card__information{\ndisplay:block;\n}\n#shopify-section-template--16484092477514__collection_list_Abj9mp .card__information,\n#shopify-section-template--16484092477514__collection_list_Abj9mp .card__information .icon-wrap{\ndisplay:none;\n}\n#shopify-section-template--16484092477514__collection_list_Abj9mp .card__information{\n    padding-left: 20px;\n \n}\n#shopify-section-template--16484092477514__collection_list_Abj9mp .card__heading{\n    font-family: 'bebas_neueregular';\ntext-transform:uppercase;\n    font-size: 45px;\n    font-weight: normal;\ncolor:#ffffff;\n    max-width: 50%;\n    width: 100%;\nline-height: normal;\n}\n#shopify-section-template--16484092477514__collection_list_Abj9mp .title-wrapper-with-link{\ndisplay:flex;\njustify-content:center;\ncolor:#282828;\n}\n#shopify-section-template--16484092477514__collection_list_Abj9mp .collection-list-title{\nfont-family: 'FONTSPRING DEMO - Bebas Neue Pro Middle';\n    font-size: 60px;\n    font-weight: normal;\n    margin-bottom: 50px;\nline-height:1;\n}\n#shopify-section-template--16484092477514__collection_list_Abj9mp .collection-list-title .heading_inner_text{\n    font-family: 'FONTSPRING DEMO - Bebas Neue Pro bold';\n}\n#shopify-section-template--16484092477514__collection_list_Abj9mp a:hover{\ncolor:#ffffff;\n}\n#shopify-section-template--16484092477514__collection_list_Abj9mp .collection-list__item{\nmargin-bottom:22px;\n}\n#shopify-section-template--16484092477514__collection_list_Abj9mp .collection-list .collection-list__item:last-child{\nwidth: calc(100% - var(--grid-desktop-horizontal-spacing) \/ 2);\n    max-width: calc(100% - var(--grid-desktop-horizontal-spacing) \/ 2);\n}\n#shopify-section-template--16484092477514__collection_list_Abj9mp .collection-list .collection-list__item:last-child .card__inner \n .card__information{\ndisplay: flex;\n    justify-content: center;\n}\n#shopify-section-template--16484092477514__collection_list_Abj9mp .collection-list .collection-list__item:last-child .card__inner \n .card__information .card__heading{\ntext-align: center;\n}\n#shopify-section-template--16484092477514__collection_list_Abj9mp .collection-list .collection-list__item:first-child .card__heading,\n#shopify-section-template--16484092477514__collection_list_Abj9mp .collection-list .collection-list__item:first-child .card__heading a{\ncolor:#000!important;\n}\n\n\n#shopify-section-template--16484092477514__featured_blog_M4ktFH .section-template--16484092477514__featured_blog_M4ktFH-padding{\npadding-top:250px;\n} \n#shopify-section-template--16484092477514__featured_blog_M4ktFH .blog.gradient{\n    background-image: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/blog_banner.jpg?v=1730099591);\n    background-size: cover;\n    width: 100%;\n    height: 100%;\n    background-repeat: no-repeat;\n    background-position: top;\n    background-attachment: unset;\n    --grid-desktop-horizontal-spacing: 0px;\n}\n#shopify-section-template--16484092477514__featured_blog_M4ktFH .blog .article-card-wrapper .card__heading {\nfont-family: 'AmsiProCond-Black';\n    font-size: 35px;\n    text-transform: uppercase;\n    line-height: 1.1;\n}\n#shopify-section-template--16484092477514__featured_blog_M4ktFH .blog .article-card-wrapper .article-card__excerpt{\nletter-spacing: normal;\n    font-size: 16px;\n    line-height: 1.4;\n    margin-top: 25px;\n    margin-bottom: 0;\n}\n#shopify-section-template--16484092477514__featured_blog_M4ktFH .article.grid__item{\npadding-left:22px;\n}\n#shopify-section-template--16484092477514__featured_blog_M4ktFH .blog .card__inner{\nbackground: transparent;\n}\n#shopify-section-template--16484092477514__featured_blog_M4ktFH .blog .card__inner .article-card__image-wrapper{\n\n    border-radius: 40px;\n}\n#shopify-section-template--16484092477514__featured_blog_M4ktFH .blog__posts .article-card .card__information{\npadding-top: 40px;\n}\n#shopify-section-template--16484092477514__featured_blog_M4ktFH .blog .blog__button{\n    color: #000;\n    max-width: 550px; \n    width: calc(100% - 30px);\n    border-radius: 30px;\n    margin-top: 50px;\n    font-size: 25px;\n    letter-spacing: 4px;\n    font-weight: normal;\n    font-family: 'AmsiProCond';\n    line-height: normal;\n    background: #d8dbc9;\n    padding-bottom: 6px;\ntext-transform: uppercase;\n}\n#shopify-section-template--16484092477514__featured_blog_M4ktFH .title-wrapper-with-link {\ndisplay: flex;\n    justify-content: center;\n    color: #1e1d1b;\n}\n#shopify-section-template--16484092477514__featured_blog_M4ktFH .title-wrapper-with-link .blog__title{\nfont-family: 'AmsiProCond';\n    font-size: 60px;\n    font-weight: normal;\n    margin-bottom: 50px;\nline-height:1;\n}\n#shopify-section-template--16484092477514__featured_blog_M4ktFH .title-wrapper-with-link .blog__title .heading_inner{\nfont-family: 'AmsiProCond-bold';\n}\n\n\n\n\n\n@media screen and (max-width: 989px){\n    #shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn-card-spacing{\n            max-width: 100px;\nmargin-bottom:0;\n    }\n    #shopify-section-template--16484092477514__featured_collection_PFYGPk .section-template--16484092477514__featured_collection_PFYGPk-padding {\n        padding-top: 60px;\n        padding-bottom: 60px;\n    }\n    #shopify-section-template--16484092477514__featured_collection_PFYGPk .collection__title .title{\n        font-size: 50px;\n        padding-bottom: 10px;\n    }\n    #shopify-section-template--16484092477514__featured_collection_PFYGPk .collection__title{\n        margin-bottom: 15px;\n    }\n\n\n    #shopify-section-template--16484092477514__multicolumn_RtjUhi .section-template--16484092477514__multicolumn_RtjUhi-padding{\n        padding-top: 60px;\n        padding-bottom: 60px;\n    }\n    #shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn .title{\n        font-size: 50px;\n    }\n    #shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn .title-wrapper-with-link{\n        margin-bottom: 30px;\n    }\n    #shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn .multicolumn-list__item{\n        width: calc(33.33% - var(--grid-desktop-horizontal-spacing) * 2 \/ 3);\n        max-width: calc(33.33% - var(--grid-desktop-horizontal-spacing) * 2 \/ 3);\n    }\n    #shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn:after{\n        width: 154px;\n        height: 209px;\n        top: -50px;\n        right: 60px;\n    }\n    #shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn .button{\n        margin-top: 30px;\n    }\n\n\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .section-template--16484092477514__multicolumn_qp6hEV-padding {\n        padding-top: 60px;\n        padding-bottom: 60px;\n    }\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn .title-wrapper-with-link .title{\n        padding-bottom: 25px;\n        font-size: 50px;\n    }\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn .title-wrapper-with-link{\n        margin-bottom: 50px;\n    }\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn .button{\n        margin: 30px 15px 0;\n        font-size: 25px;\n        min-height: 40px;\n\n    }\n\n\n    #shopify-section-template--16484092477514__featured_blog_M4ktFH .section-template--16484092477514__featured_blog_M4ktFH-padding{\n        padding-top: 230px;\n        padding-bottom: 60px;\n    }\n    #shopify-section-template--16484092477514__collection_list_Abj9mp .section-template--16484092477514__collection_list_Abj9mp-padding{\n        padding-top: 40px;\n    padding-bottom: 60px;\n    }\n    #shopify-section-template--16484092477514__collection_list_Abj9mp .collection-list-title{\n        font-size: 50px;\n        margin-bottom: 10px;\n    }\n    #shopify-section-template--16484092477514__collection_list_Abj9mp .card__heading{\n        font-size: 30px;\n    }\n\n    #shopify-section-template--16484092477514__featured_blog_M4ktFH .title-wrapper-with-link .blog__title{\n        font-size: 50px;\n        margin-bottom: 30px;\n    }\n    #shopify-section-template--16484092477514__featured_blog_M4ktFH .blog .blog__view-all{\n        display: block!important;\n    }\n    #shopify-section-template--16484092477514__featured_blog_M4ktFH .blog .slider-buttons,\n    #shopify-section-template--16484092477514__featured_blog_M4ktFH .title-wrapper-with-link a{\n        display:none;\n    }\n    #shopify-section-template--16484092477514__featured_blog_M4ktFH .blog .blog__button{\n        font-size: 22px;\n    letter-spacing: 2px;\n    min-height: 40px;\n    margin-top: 30px;\n\n    }\n}\n\n@media screen and (max-width: 749px) {\n    #shopify-section-template--16484092477514__featured_collection_PFYGPk .section-template--16484092477514__featured_collection_PFYGPk-padding {\n        padding-top: 40px;\n        padding-bottom: 40px;\n    }\n    #shopify-section-template--16484092477514__featured_collection_PFYGPk .collection__title .title{\n        font-size: 40px;\n        padding-bottom: 5px;\n    }\n    #shopify-section-template--16484092477514__featured_collection_PFYGPk .collection__title .title:after{\n        height: 4px;\n    }\n\n\n    #shopify-section-template--16484092477514__multicolumn_RtjUhi .section-template--16484092477514__multicolumn_RtjUhi-padding {\n        padding-top: 40px;\n        padding-bottom: 40px;\n    }\n    #shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn .multicolumn-list__item{\n        width: calc(100% - var(--grid-desktop-horizontal-spacing) * 2 \/ 3);\n        max-width: calc(100% - var(--grid-desktop-horizontal-spacing) * 2 \/ 3);\n    }\n    #shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn:after{\n        width: 114px;\n    height: 149px;\n    top: -30px;\n    right: 40px;\n    }\n    #shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn .button{\n        font-size: 20px;\n        min-height:38px;\n        letter-spacing: 2px;\n    }\n#shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn .multicolumn-list__item{\npadding: 0;\n}\n    \n\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .section-template--16484092477514__multicolumn_qp6hEV-padding{\n        padding-top: 40px;\n    padding-bottom: 40px;\n    }\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn .title-wrapper-with-link .title{\npadding-bottom: 20px;\n        font-size: 40px;\n    }\n#shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn-list .multicolumn-list__item {\n   max-width: 100%;\n    width: 100%;\n    flex: 100%;\n}\n\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn .title-wrapper-with-link{\n        margin-bottom: 35px;\n    }\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn .title-wrapper-with-link .title:after{\n        height: 4px;\n    }\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn-list .multicolumn-list__item {\n        margin-bottom: 20px;\n        padding: 0;\n    }\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn .button{\n        font-size: 20px;\n        min-height: 38px;\n        letter-spacing: 2px;\nmargin-top:10px; \n    }\n\n\n    #shopify-section-template--16484092477514__collection_list_Abj9mp .section-template--16484092477514__collection_list_Abj9mp-padding {\n        padding-top: 40px;\n        padding-bottom: 40px;\n    }\n    #shopify-section-template--16484092477514__collection_list_Abj9mp .collection-list-title{\n        font-size: 40px;\n    margin-bottom: 0px;\n    }\n\n\n    #shopify-section-template--16484092477514__featured_blog_M4ktFH .blog.gradient{\n        background-position: left;\n    }\n    #shopify-section-template--16484092477514__featured_blog_M4ktFH .title-wrapper-with-link .blog__title{\n        font-size: 40px;\n    font-weight: normal;\n    margin-bottom: 10px;\n    }\n    #shopify-section-template--16484092477514__featured_blog_M4ktFH .section-template--16484092477514__featured_blog_M4ktFH-padding{\n        padding-top: 200px;\n        padding-bottom: 40px;\n    }\n    #shopify-section-template--16484092477514__featured_blog_M4ktFH .article.grid__item {\n        padding-left: 0;\n        margin-left: 15px;\n    }\n    #shopify-section-template--16484092477514__featured_blog_M4ktFH .blog .article-card-wrapper .card__heading{\n        font-size: 30px;\n    }\n    #shopify-section-template--16484092477514__featured_blog_M4ktFH .blog__posts .article-card .card__information {\n        padding-top: 25px;\n    }\n    #shopify-section-template--16484092477514__featured_blog_M4ktFH .blog .article-card-wrapper .article-card__excerpt{\n        margin-top: 15px;\n    }\n    #shopify-section-template--16484092477514__featured_blog_M4ktFH .blog .blog__button{\n        font-size: 20px;\n        min-height: 38px;\n        margin: 0 15px 0;\n    }\n}\n\n.contact .contact__button .button {\n    background: #bccd14;\n    color: #000;\n    border-radius: 20px;\n}\n\n#shopify-section-template--16484092477514__featured_collection_PFYGPk .quick-add button{\nbackground: #90da90;\nborder-radius: 30px;\n}\n\n#shopify-section-template--16600696881226__popup_vidio_WGjLk7 .heading_font{\nfont-family: 'AmsiProCond';\n    font-size: 60px;\nline-height: normal;\n}\n#shopify-section-template--16600696881226__featured_collection_77FTWN .title{\n text-align:center;    font-family: 'AmsiProCond';\n    font-size: 60px;\nline-height: normal;\n}\n#shopify-section-template--16600696881226__featured_collection_77FTWN .quick-add button{\nbackground: #90da90;\n    border-radius: 30px;\n}\n\n#shopify-section-template--16600696881226__image_with_content_nVVpMx .feature-row__item .heading_font{\nfont-family: 'AmsiProCond';\n}\n#shopify-section-template--16600696881226__image_with_content_nVVpMx .btn:hover{\ntext-decoration: none;\n\n}\n#shopify-section-template--16600696881226__image_hero_6iVn9b .hero__text-content  .hero__link .feature-row__text .btn:hover{\ntext-decoration: none;\n} \n#shopify-section-template--16600696881226__image_hero_jgghKF .hero__text-content  .hero__link .btn:hover{\ntext-decoration: none;\n} \n\n#shopify-section-template--16600696881226__image_hero_jgghKF .parallax-container{\n    transform: none !important; \n}\n#shopify-section-template--16600696881226__image_hero_6iVn9b .parallax-container{\n        transform: none !important;\n} \n@media screen and (max-width:989px){\n#shopify-section-template--16600696881226__popup_vidio_WGjLk7 .heading_font {\n    font-size: 40px;\n}\n#shopify-section-template--16600696881226__featured_collection_77FTWN .title {\n    font-size: 40px;\n}\n#shopify-section-template--16600696881226__featured_collection_77FTWN .grid__item{\n    flex: none;\n} \n#shopify-section-template--16600696881226__featured_collection_77FTWN .button{\nmin-height: auto; \n}\n}\n\n<\/style>","cart_type":"drawer","show_vendor":false,"show_cart_note":false,"colors_solid_button_labels":"#ffffff","colors_accent_1":"#121212","gradient_accent_1":"","colors_accent_2":"#334fb4","gradient_accent_2":"","colors_text":"#ffffff","colors_outline_button_labels":"#ff0000","colors_background_1":"#ffffff","gradient_background_1":"","colors_background_2":"#f3f3f3","gradient_background_2":"","sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"announcement_yBUaJm":{"type":"announcement","settings":{"text":"New Year, New You: 10% off site wide with code \"approved\"","text_alignment":"center","color_scheme":"accent-2","link":"shopify:\/\/collections\/all"}}},"block_order":["announcement_yBUaJm"],"settings":{}},"header":{"type":"header","blocks":{"logo_PArMXV":{"type":"logo","settings":{"logo":"shopify:\/\/shop_images\/HomeCarePolicy-White.png","logo-svg":"","desktop_logo_width":130,"mobile_logo_width":70}},"css_6DCTwz":{"type":"css","settings":{"css":".site-header{\n    background: #f2f3ec;\npadding:10px 0;\n}\n.site-nav__link{\ncolor:#000; \ntext-transform: uppercase;\npadding-left:20px;\npadding-right:20px;\nfont-family: 'CocogooseProTrial Semilight';\n    font-weight: normal;\nletter-spacing: normal;\n}\n.site-header__logo{\nmargin:0;\n}\n.site-nav__link:hover{\ncolor:#000; \n}\n.site-nav__link--underline:after{\nborder-color:#000;\n}\n.drawer, .mobile-nav&gt;.mobile-nav__item{\nbackground-color:#f2f3ec;\n}\n.mobile-nav__link{\nfont-family: 'CocogooseProTrial Semilight';\n    text-transform: uppercase;\n    font-size: 1em;\n}\n.drawer__inner .mobile-nav__link, .drawer__close-button, .mobile-nav__social a{\ncolor:#000!important;\n}\n.mobile-nav__item:after, .drawer__header, .mobile-nav__social-item{\nborder-color:#000;\n}\n.header-item .icon-hamburger path{\nstroke-width: 1.5px;\n}\n.site-nav__link--icon\n.icon.icon-hamburger{\nwidth: 22px;\n    height: 22px;\n}\n.site-nav__link--icon\n.icon.icon-bag{\nwidth: 25px;\n    height: 25px;\n}\n.drawer_logo{\ndisplay:none;\n}\n@media screen and (max-width: 989px){\n.site-nav__link{\npadding-left:10px;\npadding-right:10px;\n}\n}\n.header__icon--cart .icon path{\nstroke-width: 1px;\n    stroke: #000!important;\n}"}}},"block_order":["logo_PArMXV","css_6DCTwz"],"settings":{"main_menu_link_list":"main-menu","main_menu_alignment":"left-center","header_style":"normal","sticky_index":true,"above_announcement":false,"full_width":false,"sticky_collection":true,"header_search_enable":false,"toolbar_menu":"","toolbar_social":false,"toolbar_currencies":false,"announcement_compact":false}},"footer":{"type":"footer","blocks":{"menu_CVTrJg":{"type":"menu","settings":{"show_footer_title":false,"menu":"footer","container_width":30}},"newsletter_QgbqEm":{"type":"newsletter","settings":{"show_footer_title":true,"title":"Join our mailing list and <span class=\"heading_inner\"> stay updated<\/span>","text":"<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>","container_width":40}},"logo_social_Ux9Pjw":{"type":"logo_social","settings":{"logo":"shopify:\/\/shop_images\/logo.png","desktop_logo_height":120,"container_width":30}}},"block_order":["menu_CVTrJg","newsletter_QgbqEm","logo_social_Ux9Pjw"],"settings":{"show_payment_icons":true,"show_copyright":true,"copyright_text":"","css":".site-footer{\nborder:none; \n}\n\n.site-footer__linklist a{\nfont-family: 'texgyreadventorregular';\n    color: #9b9b9b;\n    text-transform: uppercase;\n    letter-spacing: 2px;\n\n}\n.site-footer #Footer-newsletter_QgbqEm .footer__collapsible{\nfont-size:16px; \n}\n.footer__title {\nfont-family: 'AmsiProCond';\n    font-size: 28px;\n    font-weight: normal;\nletter-spacing: 1px;\n}\n.footer__title .heading_inner{\nfont-family: 'AmsiProCond-Black';\n}\n@media screen and (max-width: 768px){\n.site-footer__linklist li{\n        font-size: 16px;\n    }\n    .footer__title{\n        font-size: 22px;\n    }\n}"}},"main-password-header":{"type":"main-password-header","settings":{"logo":"{{ shop.brand.logo }}","logo_max_width":100,"color_scheme":"background-1"}},"main-password-footer":{"type":"main-password-footer","settings":{"color_scheme":"background-1"}},"Loader":{"type":"Loader","settings":{"activate":false,"brand_logo":"shopify:\/\/shop_images\/logo.png","brand_logo_svg":"","logo_width":60,"mobile_logo_width":90,"animation":"fadeInUp","trace":false,"background_color":"#f2f3ec","background_color_2":"#f2f3ec","css":""}},"about-us":{"type":"about-us","blocks":{"section_hXGfwA":{"type":"Section","settings":{"image":"shopify:\/\/shop_images\/Copy_of_FM3A4688.jpg","mp4":"","youtube_url":"","width":50,"layout":"right","layout_mobile":"top","title":"Juicing For Humanity.","font":"montserrat_n5","fontsize":40,"title_color":"#1c1d1d","content":"<p>Our mission is to ensure that quality is never sacrificed at the expense of competitive prices. We know that every product counts, and we strive to make the entire shopping experience as rewarding as possible. Check us out for yourself, follow us on social media and join the tribe.<br\/><\/p>","background1":"#ddded7","background2":"#f2f3ec","button_link":"shopify:\/\/collections\/all","button_label":"GET STARTED","button_color":"#000000","button_background":"#bccd14"}},"section_BmBUeN":{"type":"Section","settings":{"image":"shopify:\/\/shop_images\/Copy_of_FM3A4665.jpg","mp4":"","youtube_url":"","width":50,"layout":"left","layout_mobile":"top","title":"GET TO KNOW US.","font":"montserrat_n5","fontsize":40,"title_color":"#000000","content":"<p>Every bottle reflects the dedication and passion of our small-business founders, a husband and wife duo who believe in health, flavor, and community who also brought their sister in to help grow the business. They travel far to source the finest tropical ingredients, ensuring that every sip is as nutritious as it is delicious. This juice isn't mass-produced—it’s handmade with care, delivering an authentic experience you can trust. By choosing Divine Luminance, you support a family-owned business committed to quality, wellness, and sustainable living.<\/p>","background1":"#f2f3ec","background2":"#ddded7","button_link":"shopify:\/\/pages\/contact","button_label":"contact us","button_color":"#000000","button_background":"#bccd14"}}},"block_order":["section_hXGfwA","section_BmBUeN"],"settings":{"css":""}},"FAQ":{"type":"FAQ","blocks":{"faq_iUyByk":{"type":"Faq","settings":{"title":"What is fresh pressed juice?","answer":"<p>Fresh pressed juice is made by extracting the juice from fruits and vegetables using a hydraulic press, which preserves more nutrients and enzymes compared to traditional juicing methods. <\/p>"}},"faq_rLQgP3":{"type":"Faq","settings":{"title":"How long does fresh pressed juice last?","answer":"<p>Fresh pressed juice is best consumed within 5 days when stored properly in a refrigerator. However, for optimal flavor and nutrient retention, it’s recommended to drink it as soon as possible. If you are unable to drink juices upon receipt, place them in the freezer for up to nine months and enjoy them later.  When ready to consume, remove juices from the freezer and thaw in the refrigerator or at room temperature and consume within 4 days. <\/p>"}},"faq_PBib8W":{"type":"Faq","settings":{"title":"Are your ingredients organic?","answer":"<p>We strive to use organic and natural produce whenever possible to ensure the quality and safety of our juices. However, some ingredients may vary based on availability. We also have a thorough cleaning process with our produce. <\/p>"}},"faq_wVp6VU":{"type":"Faq","settings":{"title":"Can I customize my juice order?","answer":"<p>Absolutely! We offer a variety of ingredients for our juices, and you can customize your order based on your taste preferences and nutritional needs. <\/p>"}},"faq_i7RqkM":{"type":"Faq","settings":{"title":"Are your juices pasteurized?","answer":"<p>No, our juices are raw and unpasteurized to retain the maximum amount of nutrients. We recommend that you consume them quickly to ensure freshness and safety. <\/p>"}},"faq_wCpyU9":{"type":"Faq","settings":{"title":"What are the health benefits of fresh pressed juice?","answer":"<p>Fresh pressed juices are packed with vitamins, minerals, and antioxidants. They can help boost your immune system, improve digestion, and provide a convenient way to increase your fruit and vegetable intake. <\/p>"}},"faq_4pp3F6":{"type":"Faq","settings":{"title":"Can I subscribe for regular juice orders?","answer":"<p>Yes, we offer subscription plans for regular juice orders. You can choose the frequency and types of juices you want to receive. <\/p>"}},"faq_79mPwc":{"type":"Faq","settings":{"title":"Are there any allergens in your juices?","answer":"<p>We take allergen management seriously. Please refer to our ingredient list or contact us directly if you have concerns about specific allergens. <\/p>"}},"faq_LFX8RR":{"type":"Faq","settings":{"title":"How should I store my fresh pressed juice?","answer":"<p>To maintain freshness, store your juice in the refrigerator in a sealed container. Avoid exposure to light and heat to preserve the nutrients. Our best recommendation is to store the juices in the back of the refrigerator at regulated temperature.<\/p>"}},"faq_383VVG":{"type":"Faq","settings":{"title":"What types of juices do you offer?","answer":"<p>We offer a variety of fresh pressed juices made from fruits and vegetables, including classic combinations and unique blends. Seasonal offerings may also be available.<\/p>"}},"faq_GBPaCC":{"type":"Faq","settings":{"title":"Do you offer juice cleanses?","answer":"<p>Yes, we provide juice cleanse programs that include a selection of juices designed for specific durations, such as three or five days. <\/p>"}},"faq_7XnYjU":{"type":"Faq","settings":{"title":"What is your return or refund policy?","answer":"<p>Due to the perishable nature of our products, we do not offer returns. However, if there are any issues with your order, please contact us, and we will do our best to assist you. <\/p>"}}},"block_order":["faq_iUyByk","faq_rLQgP3","faq_PBib8W","faq_wVp6VU","faq_i7RqkM","faq_wCpyU9","faq_4pp3F6","faq_79mPwc","faq_LFX8RR","faq_383VVG","faq_GBPaCC","faq_7XnYjU"],"custom_css":[".tab-label {color: #000;}"],"settings":{"button_background_color":"#f2f3ec","color":"#1c1d1d"}}},"content_for_index":[],"blocks":{"3667842014806057753":{"type":"shopify:\/\/apps\/one-click-upsell\/blocks\/app-embed\/bfe6e378-b73a-4871-b8d3-7d6ede22678e","disabled":false,"settings":{"allowed_templates":""}},"5134484470793087125":{"type":"shopify:\/\/apps\/vitals\/blocks\/app-embed\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8","disabled":false,"settings":{}},"14060646107696862457":{"type":"shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8","disabled":false,"settings":{}},"6143736321357441667":{"type":"shopify:\/\/apps\/tidio-live-chat-chatbots\/blocks\/app-embed\/1002274d-fb18-4939-98f6-5f05a8deeadc","disabled":false,"settings":{}},"3787308784794087151":{"type":"shopify:\/\/apps\/tipo-appointment\/blocks\/app-embed\/efe4d483-fa62-4509-a0a7-3f363fbc9920","disabled":false,"settings":{}},"10059099789788467215":{"type":"shopify:\/\/apps\/scala-parcelamentos\/blocks\/parcelaEmbed\/def817a5-48c7-43b3-b8b9-553076d860c7","disabled":false,"settings":{"nParcelas":3,"minInstallmentPrice":1,"minPrice":1,"maxPrice":100000000,"juros":"semJuros","customJurosNew":"2.99","msg":"<p>((N_INSTALLMENTS)) interest-free payments of ((INSTALLMENT))<\/p>","icon":"none","text_color":"#000000"}},"11753626725791430220":{"type":"shopify:\/\/apps\/one-click-upsell\/blocks\/cart-drawer\/bfe6e378-b73a-4871-b8d3-7d6ede22678e","disabled":false,"settings":{}},"13375938897875554821":{"type":"shopify:\/\/apps\/qikify-sales-pop-up\/blocks\/app-embed\/688dd516-1cdc-4008-8329-23089a1c4e24","disabled":false,"settings":{}},"11158620501380966596":{"type":"shopify:\/\/apps\/tz-trust-badges-payments-icon\/blocks\/trustz\/539d151e-77d2-4b39-b20d-fbce59dc78c7","disabled":false,"settings":{}}}},"presets":{"Default":{"colors_solid_button_labels":"#ffffff","colors_accent_1":"#121212","gradient_accent_1":"","colors_accent_2":"#334fb4","gradient_accent_2":"","colors_text":"#121212","colors_outline_button_labels":"#121212","colors_background_1":"#ffffff","gradient_background_1":"","colors_background_2":"#f3f3f3","gradient_background_2":"","type_header_font":"assistant_n4","heading_scale":100,"type_body_font":"assistant_n4","body_scale":100,"page_width":1200,"spacing_sections":0,"spacing_grid_horizontal":8,"spacing_grid_vertical":8,"buttons_border_thickness":1,"buttons_border_opacity":100,"buttons_radius":0,"buttons_shadow_opacity":0,"buttons_shadow_horizontal_offset":0,"buttons_shadow_vertical_offset":4,"buttons_shadow_blur":5,"variant_pills_border_thickness":1,"variant_pills_border_opacity":55,"variant_pills_radius":40,"variant_pills_shadow_opacity":0,"variant_pills_shadow_horizontal_offset":0,"variant_pills_shadow_vertical_offset":4,"variant_pills_shadow_blur":5,"inputs_border_thickness":1,"inputs_border_opacity":55,"inputs_radius":0,"inputs_shadow_opacity":0,"inputs_shadow_horizontal_offset":0,"inputs_shadow_vertical_offset":4,"inputs_shadow_blur":5,"card_style":"standard","card_image_padding":0,"card_text_alignment":"left","card_color_scheme":"background-2","card_border_thickness":0,"card_border_opacity":10,"card_corner_radius":0,"card_shadow_opacity":0,"card_shadow_horizontal_offset":0,"card_shadow_vertical_offset":4,"card_shadow_blur":5,"collection_card_style":"standard","collection_card_image_padding":0,"collection_card_text_alignment":"left","collection_card_color_scheme":"background-2","collection_card_border_thickness":0,"collection_card_border_opacity":10,"collection_card_corner_radius":0,"collection_card_shadow_opacity":0,"collection_card_shadow_horizontal_offset":0,"collection_card_shadow_vertical_offset":4,"collection_card_shadow_blur":5,"blog_card_style":"standard","blog_card_image_padding":0,"blog_card_text_alignment":"left","blog_card_color_scheme":"background-2","blog_card_border_thickness":0,"blog_card_border_opacity":10,"blog_card_corner_radius":0,"blog_card_shadow_opacity":0,"blog_card_shadow_horizontal_offset":0,"blog_card_shadow_vertical_offset":4,"blog_card_shadow_blur":5,"text_boxes_border_thickness":0,"text_boxes_border_opacity":10,"text_boxes_radius":0,"text_boxes_shadow_opacity":0,"text_boxes_shadow_horizontal_offset":0,"text_boxes_shadow_vertical_offset":4,"text_boxes_shadow_blur":5,"media_border_thickness":1,"media_border_opacity":5,"media_radius":0,"media_shadow_opacity":0,"media_shadow_horizontal_offset":0,"media_shadow_vertical_offset":4,"media_shadow_blur":5,"popup_border_thickness":1,"popup_border_opacity":10,"popup_corner_radius":0,"popup_shadow_opacity":0,"popup_shadow_horizontal_offset":0,"popup_shadow_vertical_offset":4,"popup_shadow_blur":5,"drawer_border_thickness":1,"drawer_border_opacity":10,"drawer_shadow_opacity":0,"drawer_shadow_horizontal_offset":0,"drawer_shadow_vertical_offset":4,"drawer_shadow_blur":5,"badge_position":"bottom left","badge_corner_radius":40,"sale_badge_color_scheme":"accent-2","sold_out_badge_color_scheme":"inverse","accent_icons":"text","social_twitter_link":"","social_facebook_link":"","social_pinterest_link":"","social_instagram_link":"","social_tiktok_link":"","social_tumblr_link":"","social_snapchat_link":"","social_youtube_link":"","social_vimeo_link":"","predictive_search_enabled":true,"predictive_search_show_vendor":false,"predictive_search_show_price":false,"currency_code_enabled":true,"cart_type":"notification","show_vendor":false,"show_cart_note":false,"sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"announcement-bar-0":{"type":"announcement","settings":{"text":"Welcome to our store","text_alignment":"center","color_scheme":"background-1","link":""}}},"block_order":["announcement-bar-0"],"settings":{}},"header":{"type":"header","settings":{}},"footer":{"type":"footer","blocks":{"footer-0":{"type":"link_list","settings":{"menu":"footer"}},"footer-1":{"type":"link_list","settings":{"menu":"footer"}},"footer-2":{"type":"text","settings":{"heading":"Our mission","subtext":"<p>Share contact information, store details, and brand content with your customers.<\/p>"}}},"block_order":["footer-0","footer-1","footer-2"],"settings":{}},"main-password-header":{"type":"main-password-header","settings":{"logo":"{{ shop.brand.logo }}","logo_max_width":100,"color_scheme":"background-1"}},"main-password-footer":{"type":"main-password-footer","settings":{"color_scheme":"background-1"}}}}}}
+{
+  "current": {
+    "password": "dfa1daa98d612fd5f03f478d881123ae",
+    "color_body_bg": "#f8f3ef",
+    "color_body_text": "#f8f3ef",
+    "color_cart_dot": "#f8f3ef",
+    "color_header": "#1c1d1d",
+    "color_header_text": "#000000",
+    "color_footer": "#c60000",
+    "color_footer_text": "#000000",
+    "color_drawer_border": "#ffffff",
+    "color_drawer_button": "#f1c139",
+    "color_drawer_button_text": "#000000",
+    "color_modal_overlays": "#ffffff",
+    "collection_grid_shape": "square",
+    "type_header_font_family": "montserrat_n4",
+    "type_header_spacing": "25",
+    "type_header_base_size": 32,
+    "type_header_line_height": 1.4,
+    "type_base_font_family": "montserrat_n4",
+    "type_base_spacing": "50",
+    "type_base_size": 16,
+    "type_base_line_height": 1.4,
+    "type_navigation_size": 16,
+    "type_header_font": "montserrat_n4",
+    "heading_scale": 100,
+    "type_body_font": "montserrat_n4",
+    "body_scale": 100,
+    "page_width": 1500,
+    "spacing_sections": 0,
+    "spacing_grid_horizontal": 40,
+    "spacing_grid_vertical": 4,
+    "buttons_border_thickness": 1,
+    "buttons_border_opacity": 100,
+    "buttons_radius": 0,
+    "buttons_shadow_opacity": 0,
+    "buttons_shadow_horizontal_offset": 0,
+    "buttons_shadow_vertical_offset": 4,
+    "buttons_shadow_blur": 5,
+    "variant_pills_border_thickness": 1,
+    "variant_pills_border_opacity": 55,
+    "variant_pills_radius": 40,
+    "variant_pills_shadow_opacity": 0,
+    "variant_pills_shadow_horizontal_offset": 0,
+    "variant_pills_shadow_vertical_offset": 4,
+    "variant_pills_shadow_blur": 5,
+    "inputs_border_thickness": 1,
+    "inputs_border_opacity": 55,
+    "inputs_radius": 0,
+    "inputs_shadow_opacity": 0,
+    "inputs_shadow_horizontal_offset": 0,
+    "inputs_shadow_vertical_offset": 4,
+    "inputs_shadow_blur": 5,
+    "card_style": "standard",
+    "card_image_padding": 0,
+    "card_text_alignment": "left",
+    "card_color_scheme": "background-2",
+    "card_border_thickness": 0,
+    "card_border_opacity": 10,
+    "card_corner_radius": 0,
+    "card_shadow_opacity": 0,
+    "card_shadow_horizontal_offset": 0,
+    "card_shadow_vertical_offset": 4,
+    "card_shadow_blur": 5,
+    "collection_card_style": "standard",
+    "collection_card_image_padding": 0,
+    "collection_card_text_alignment": "left",
+    "collection_card_color_scheme": "background-1",
+    "collection_card_border_thickness": 0,
+    "collection_card_border_opacity": 10,
+    "collection_card_corner_radius": 0,
+    "collection_card_shadow_opacity": 0,
+    "collection_card_shadow_horizontal_offset": 0,
+    "collection_card_shadow_vertical_offset": 4,
+    "collection_card_shadow_blur": 5,
+    "blog_card_style": "standard",
+    "blog_card_image_padding": 0,
+    "blog_card_text_alignment": "left",
+    "blog_card_color_scheme": "background-2",
+    "blog_card_border_thickness": 0,
+    "blog_card_border_opacity": 10,
+    "blog_card_corner_radius": 0,
+    "blog_card_shadow_opacity": 0,
+    "blog_card_shadow_horizontal_offset": 0,
+    "blog_card_shadow_vertical_offset": 4,
+    "blog_card_shadow_blur": 5,
+    "text_boxes_border_thickness": 0,
+    "text_boxes_border_opacity": 10,
+    "text_boxes_radius": 0,
+    "text_boxes_shadow_opacity": 0,
+    "text_boxes_shadow_horizontal_offset": 0,
+    "text_boxes_shadow_vertical_offset": 4,
+    "text_boxes_shadow_blur": 5,
+    "media_border_thickness": 1,
+    "media_border_opacity": 5,
+    "media_radius": 0,
+    "media_shadow_opacity": 0,
+    "media_shadow_horizontal_offset": 0,
+    "media_shadow_vertical_offset": 4,
+    "media_shadow_blur": 5,
+    "popup_border_thickness": 1,
+    "popup_border_opacity": 10,
+    "popup_corner_radius": 0,
+    "popup_shadow_opacity": 0,
+    "popup_shadow_horizontal_offset": 0,
+    "popup_shadow_vertical_offset": 4,
+    "popup_shadow_blur": 5,
+    "drawer_border_thickness": 1,
+    "drawer_border_opacity": 10,
+    "drawer_shadow_opacity": 0,
+    "drawer_shadow_horizontal_offset": 0,
+    "drawer_shadow_vertical_offset": 4,
+    "drawer_shadow_blur": 5,
+    "badge_position": "bottom left",
+    "badge_corner_radius": 40,
+    "sale_badge_color_scheme": "accent-2",
+    "sold_out_badge_color_scheme": "inverse",
+    "accent_icons": "text",
+    "social_twitter_link": "",
+    "social_facebook_link": "",
+    "social_pinterest_link": "",
+    "social_instagram_link": "",
+    "social_tiktok_link": "",
+    "social_tumblr_link": "",
+    "social_snapchat_link": "",
+    "social_youtube_link": "",
+    "social_vimeo_link": "",
+    "predictive_search_enabled": true,
+    "predictive_search_show_vendor": false,
+    "predictive_search_show_price": false,
+    "favicon": "shopify:\/\/shop_images\/Decrease_turnaround_time_for_getting_answers_to_questions.svg",
+    "currency_code_enabled": true,
+    "html": "<style>\n@import url('https:\/\/fonts.googleapis.com\/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');\n@font-face {\n    font-family: 'bebas_neueregular';\n    src: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/bebasneue-regular-webfont_1.woff2?v=1730098731') format('woff2'),\n         url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/bebasneue-regular-webfont_1.woff?v=1730098732') format('woff');\n    font-weight: normal;\n    font-style: normal;\n\n}\n@font-face {\n    font-family: 'texgyreadventorregular';\n    src: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/texgyreadventor-regular-webfont_1.woff2?v=1730098791') format('woff2'),\n         url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/texgyreadventor-regular-webfont.woff?v=1730098792') format('woff');\n    font-weight: normal;\n    font-style: normal;\n}\n\n\n@font-face {\n    font-family: 'FONTSPRING DEMO - Bebas Neue Pro reguler';\n    src: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/FONTSPRINGDEMO-BebasNeueProRegular.woff2?v=1730095734') format('woff2'),\n        url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/FONTSPRINGDEMO-BebasNeueProRegular.woff?v=1730095734') format('woff');\n    font-weight: normal;\n    font-style: normal;\n    font-display: swap;\n}\n\n\n\n@font-face {\n    font-family: 'FONTSPRING DEMO - Bebas Neue Pro Middle';\n    src: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/FONTSPRINGDEMO-BebasNeueProMiddleRegular.woff2?v=1730090569') format('woff2'),\n        url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/FONTSPRINGDEMO-BebasNeueProMiddleRegular.woff?v=1730090568') format('woff');\n    font-weight: normal;\n    font-style: normal;\n    font-display: swap;\n}\n\n@font-face {\n    font-family: 'FONTSPRING DEMO - Bebas Neue Pro bold';\n    src: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/FONTSPRINGDEMO-BebasNeueProBold.woff2?v=1730090575') format('woff2'),\n        url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/FONTSPRINGDEMO-BebasNeueProBold.woff?v=1730090575') format('woff');\n    font-weight: bold;\n    font-style: normal;\n    font-display: swap;\n}\n\n@font-face {\n    font-family: 'AmsiProCond';\n    src: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/AmsiProCond-Regular.woff2?v=1730090770') format('woff2'),\n        url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/AmsiProCond-Regular.woff?v=1730090770') format('woff');\n    font-weight: normal;\n    font-style: normal;\n    font-display: swap;\n}\n\n@font-face {\n    font-family: 'AmsiProCond-bold';\n    src: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/AmsiProCond-Bold.woff2?v=1730090770') format('woff2'),\n        url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/AmsiProCond-Bold.woff?v=1730090771') format('woff');\n    font-weight: bold;\n    font-style: normal;\n    font-display: swap;\n}\n\n@font-face {\n    font-family: 'CocogooseProTrial Semilight';\n    src: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/CocogooseProTrial-Semilight.woff2?v=1730090770') format('woff2'),\n        url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/CocogooseProTrial-Semilight.woff?v=1730090770') format('woff');\n    font-weight: 300;\n    font-style: normal;\n    font-display: swap;\n}\n\n@font-face {\n    font-family: 'AmsiProCond-Black';\n    src: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/AmsiProCond-Black.woff2?v=1730090770') format('woff2'),\n        url('https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/AmsiProCond-Black.woff?v=1730090770') format('woff');\n    font-weight: 900;\n    font-style: normal;\n    font-display: swap;\n}\n\n#shopify-section-template--16484092477514__featured_collection_PFYGPk .gradient{\nbackground: #f2f3ec;\n}\n#shopify-section-template--16484092477514__featured_collection_PFYGPk .collection__title{\n    display: flex;\n    justify-content: center;\n\n}\n#shopify-section-template--16484092477514__featured_collection_PFYGPk .collection__title .title {\ncolor: #000;\n    background-image: linear-gradient(0deg, #000 56%, #fff 100%);\n    background-clip: text;\n    -webkit-background-clip: text;\n    -webkit-text-fill-color: transparent;\n    font-family: 'AmsiProCond-Black';\n    font-size: 60px;\n    text-align: center;\n    position: relative;\ndisplay: inline-block;\n    padding-bottom: 15px;\nline-height:1;\n}\n#shopify-section-template--16484092477514__featured_collection_PFYGPk .collection__title .title:after{\ncontent:'';\nposition: absolute;\n    top: 100%;\n    left: 50%;\n    width: 70%;\n    height: 6px;\n    background: linear-gradient(180deg, rgba(138,170,60,1) 39%, rgba(86,116,11,1) 92%);\n\n    transform: translateX(-50%);\n}\n\n\n#shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn {\n    background-color: #f2f3ec;\n    background-image: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/banner.png?v=1730093369);\n    background-size: cover;\n    width: 100%;\n    height: 100%;\n    background-repeat: no-repeat;\n    background-position: top;\nbackground-attachment: unset;\n--grid-desktop-horizontal-spacing: 0px;\nposition: relative;\n}\n#shopify-section-template--16484092477514__multicolumn_RtjUhi .page-width{\nmax-width:800px;\nz-index: 1;\n}\n#shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn-card-spacing{\n    max-width: 200px;\n    margin: 0 auto;\n    padding: 0;\nborder-radius: 50px;\n    margin-bottom: 20px;\n}\n#shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn .title-wrapper-with-link{\ndisplay:flex;\njustify-content: center;\nmargin:50px 0; \ntext-align:center;\n}\n#shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn .title{\nfont-family: 'AmsiProCond';\nfont-size:60px;\nfont-weight: normal;\ntext-transform:uppercase;\nline-height:1;\n}\n#shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn .title .heading_inner_text{\nfont-family: 'AmsiProCond-Black';\n}\n#shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn .title,\n#shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn-list h3, .multicolumn-list p{\ncolor:#000;\n}\n#shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn-list h3{\n    font-family: 'CocogooseProTrial Semilight';\n    font-size: 18px;\n    font-weight: normal;\n    text-transform: uppercase;\n    line-height: normal;\n    letter-spacing: normal;\n}\n#shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn .button{\ncolor: #000;\n    max-width: 78%;\n    width: 100%;\n    border-radius: 30px;\n    margin-top: 50px;\n    font-size: 25px;\n    letter-spacing: 4px;\n    font-weight: normal;\n    font-family: 'AmsiProCond';\n    line-height: normal;\n    background: #fff8c4;\n    padding-bottom: 7px;\n    min-height: 46px;\n}\n#shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn-card__info{\npadding-left:10px;\npadding-right:10px;\n}\n#shopify-section-template--16484092477514__multicolumn_RtjUhi .grid:after{\ndisplay:none;\n}\n#shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn:after{\ncontent:'';\n    background: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/red-juice.png?v=1730093547);\n    width: 224px;\n    height: 289px;\n    position: absolute;\n    top: -50px;\n    right: 150px;\n    background-size: cover;\n    background-position: center;\n    background-repeat: no-repeat;\n}\n\n\n#shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn-card{\n    background:#ffffff;\n    border-radius: 25px; \nbox-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;\n    }\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn-card-spacing{\n    margin: 0;\n        padding-top: 0; \n    }\n    \n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn-card__image-wrapper .media{\n    border-radius: 20px 20px 0 0;\n    }\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn-card__info *{\n    color:#12120f;\n    }\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn-card__info p{\n    font-weight:500;\n    font-size: 16px;\n        letter-spacing: 0;\n    }\n    \n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn-card__info h3{\n    font-family: 'FONTSPRING DEMO - Bebas Neue Pro reguler';\n    font-size:22px;\n    font-weight: normal;\n    text-transform:uppercase;\n    }\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .grid:after{\n    display:none;\n    }\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn {\n    --grid-desktop-horizontal-spacing: 0px; \n    --grid-desktop-vertical-spacing: 40px;\n   background: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/banner_three.png?v=1730095112);\n    }\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn .title-wrapper-with-link{\n    display: flex;\n        justify-content: center;\n    margin-bottom:70px;\n    } \n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn .title-wrapper-with-link .title{\n    position: relative;\n    padding-bottom: 40px;\n    font-size: 60px;\n    font-weight: normal;\n    text-align: center;\n    text-transform: uppercase;\n    letter-spacing: normal;\n    font-family: 'AmsiProCond';\nline-height:1;\n    }\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn .title-wrapper-with-link .title:after{\n    content:'';\n    width:25%;\n    height: 5px;\n    background: #fa3738; \n    position: absolute;\n    top: 100%;\n    left: 50%;\n    transform: translateX(-50%);\n    }\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn .title-wrapper-with-link .title .heading_inner{\n    color:#87920d;\n    font-family: 'AmsiProCond-bold';\n    }\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn .button{\n        width: calc(100%  - 30px);\n    border-radius: 30px;\n    font-family: AmsiProCond;\n    font-size: 30px;\n    font-weight: 700;\n    letter-spacing: 4px;\n    background: #bccd14;\n    padding-bottom: 7px;\n    }\n#shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn-list .multicolumn-list__item{\nmargin-bottom:40px;\n}\n\n\n#shopify-section-template--16484092477514__collection_list_Abj9mp .collection_list{\n    background-image: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/banner_two.jpg?v=1730098263);\n    background-size: cover;\n    width: 100%;\n    height: 100%;\n    background-repeat: no-repeat;\n    background-position: center;\n    background-attachment: unset;\n--grid-desktop-horizontal-spacing:0px;\n}\n\n#shopify-section-template--16484092477514__collection_list_Abj9mp .page-width{\nmax-width:1100px;\n}\n#shopify-section-template--16484092477514__collection_list_Abj9mp .card__inner .card__media{\nborder-radius: 20px;\n}\n#shopify-section-template--16484092477514__collection_list_Abj9mp .card__inner {\nborder-radius: 40px;\n}\n#shopify-section-template--16484092477514__collection_list_Abj9mp .card--standard.card--media .card__inner .card__information{\ndisplay:block;\n}\n#shopify-section-template--16484092477514__collection_list_Abj9mp .card__information,\n#shopify-section-template--16484092477514__collection_list_Abj9mp .card__information .icon-wrap{\ndisplay:none;\n}\n#shopify-section-template--16484092477514__collection_list_Abj9mp .card__information{\n    padding-left: 20px;\n \n}\n#shopify-section-template--16484092477514__collection_list_Abj9mp .card__heading{\n    font-family: 'bebas_neueregular';\ntext-transform:uppercase;\n    font-size: 45px;\n    font-weight: normal;\ncolor:#ffffff;\n    max-width: 50%;\n    width: 100%;\nline-height: normal;\n}\n#shopify-section-template--16484092477514__collection_list_Abj9mp .title-wrapper-with-link{\ndisplay:flex;\njustify-content:center;\ncolor:#282828;\n}\n#shopify-section-template--16484092477514__collection_list_Abj9mp .collection-list-title{\nfont-family: 'FONTSPRING DEMO - Bebas Neue Pro Middle';\n    font-size: 60px;\n    font-weight: normal;\n    margin-bottom: 50px;\nline-height:1;\n}\n#shopify-section-template--16484092477514__collection_list_Abj9mp .collection-list-title .heading_inner_text{\n    font-family: 'FONTSPRING DEMO - Bebas Neue Pro bold';\n}\n#shopify-section-template--16484092477514__collection_list_Abj9mp a:hover{\ncolor:#ffffff;\n}\n#shopify-section-template--16484092477514__collection_list_Abj9mp .collection-list__item{\nmargin-bottom:22px;\n}\n#shopify-section-template--16484092477514__collection_list_Abj9mp .collection-list .collection-list__item:last-child{\nwidth: calc(100% - var(--grid-desktop-horizontal-spacing) \/ 2);\n    max-width: calc(100% - var(--grid-desktop-horizontal-spacing) \/ 2);\n}\n#shopify-section-template--16484092477514__collection_list_Abj9mp .collection-list .collection-list__item:last-child .card__inner \n .card__information{\ndisplay: flex;\n    justify-content: center;\n}\n#shopify-section-template--16484092477514__collection_list_Abj9mp .collection-list .collection-list__item:last-child .card__inner \n .card__information .card__heading{\ntext-align: center;\n}\n#shopify-section-template--16484092477514__collection_list_Abj9mp .collection-list .collection-list__item:first-child .card__heading,\n#shopify-section-template--16484092477514__collection_list_Abj9mp .collection-list .collection-list__item:first-child .card__heading a{\ncolor:#000!important;\n}\n\n\n#shopify-section-template--16484092477514__featured_blog_M4ktFH .section-template--16484092477514__featured_blog_M4ktFH-padding{\npadding-top:250px;\n} \n#shopify-section-template--16484092477514__featured_blog_M4ktFH .blog.gradient{\n    background-image: url(https:\/\/cdn.shopify.com\/s\/files\/1\/0616\/3801\/7098\/files\/blog_banner.jpg?v=1730099591);\n    background-size: cover;\n    width: 100%;\n    height: 100%;\n    background-repeat: no-repeat;\n    background-position: top;\n    background-attachment: unset;\n    --grid-desktop-horizontal-spacing: 0px;\n}\n#shopify-section-template--16484092477514__featured_blog_M4ktFH .blog .article-card-wrapper .card__heading {\nfont-family: 'AmsiProCond-Black';\n    font-size: 35px;\n    text-transform: uppercase;\n    line-height: 1.1;\n}\n#shopify-section-template--16484092477514__featured_blog_M4ktFH .blog .article-card-wrapper .article-card__excerpt{\nletter-spacing: normal;\n    font-size: 16px;\n    line-height: 1.4;\n    margin-top: 25px;\n    margin-bottom: 0;\n}\n#shopify-section-template--16484092477514__featured_blog_M4ktFH .article.grid__item{\npadding-left:22px;\n}\n#shopify-section-template--16484092477514__featured_blog_M4ktFH .blog .card__inner{\nbackground: transparent;\n}\n#shopify-section-template--16484092477514__featured_blog_M4ktFH .blog .card__inner .article-card__image-wrapper{\n\n    border-radius: 40px;\n}\n#shopify-section-template--16484092477514__featured_blog_M4ktFH .blog__posts .article-card .card__information{\npadding-top: 40px;\n}\n#shopify-section-template--16484092477514__featured_blog_M4ktFH .blog .blog__button{\n    color: #000;\n    max-width: 550px; \n    width: calc(100% - 30px);\n    border-radius: 30px;\n    margin-top: 50px;\n    font-size: 25px;\n    letter-spacing: 4px;\n    font-weight: normal;\n    font-family: 'AmsiProCond';\n    line-height: normal;\n    background: #d8dbc9;\n    padding-bottom: 6px;\ntext-transform: uppercase;\n}\n#shopify-section-template--16484092477514__featured_blog_M4ktFH .title-wrapper-with-link {\ndisplay: flex;\n    justify-content: center;\n    color: #1e1d1b;\n}\n#shopify-section-template--16484092477514__featured_blog_M4ktFH .title-wrapper-with-link .blog__title{\nfont-family: 'AmsiProCond';\n    font-size: 60px;\n    font-weight: normal;\n    margin-bottom: 50px;\nline-height:1;\n}\n#shopify-section-template--16484092477514__featured_blog_M4ktFH .title-wrapper-with-link .blog__title .heading_inner{\nfont-family: 'AmsiProCond-bold';\n}\n\n\n\n\n\n@media screen and (max-width: 989px){\n    #shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn-card-spacing{\n            max-width: 100px;\nmargin-bottom:0;\n    }\n    #shopify-section-template--16484092477514__featured_collection_PFYGPk .section-template--16484092477514__featured_collection_PFYGPk-padding {\n        padding-top: 60px;\n        padding-bottom: 60px;\n    }\n    #shopify-section-template--16484092477514__featured_collection_PFYGPk .collection__title .title{\n        font-size: 50px;\n        padding-bottom: 10px;\n    }\n    #shopify-section-template--16484092477514__featured_collection_PFYGPk .collection__title{\n        margin-bottom: 15px;\n    }\n\n\n    #shopify-section-template--16484092477514__multicolumn_RtjUhi .section-template--16484092477514__multicolumn_RtjUhi-padding{\n        padding-top: 60px;\n        padding-bottom: 60px;\n    }\n    #shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn .title{\n        font-size: 50px;\n    }\n    #shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn .title-wrapper-with-link{\n        margin-bottom: 30px;\n    }\n    #shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn .multicolumn-list__item{\n        width: calc(33.33% - var(--grid-desktop-horizontal-spacing) * 2 \/ 3);\n        max-width: calc(33.33% - var(--grid-desktop-horizontal-spacing) * 2 \/ 3);\n    }\n    #shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn:after{\n        width: 154px;\n        height: 209px;\n        top: -50px;\n        right: 60px;\n    }\n    #shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn .button{\n        margin-top: 30px;\n    }\n\n\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .section-template--16484092477514__multicolumn_qp6hEV-padding {\n        padding-top: 60px;\n        padding-bottom: 60px;\n    }\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn .title-wrapper-with-link .title{\n        padding-bottom: 25px;\n        font-size: 50px;\n    }\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn .title-wrapper-with-link{\n        margin-bottom: 50px;\n    }\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn .button{\n        margin: 30px 15px 0;\n        font-size: 25px;\n        min-height: 40px;\n\n    }\n\n\n    #shopify-section-template--16484092477514__featured_blog_M4ktFH .section-template--16484092477514__featured_blog_M4ktFH-padding{\n        padding-top: 230px;\n        padding-bottom: 60px;\n    }\n    #shopify-section-template--16484092477514__collection_list_Abj9mp .section-template--16484092477514__collection_list_Abj9mp-padding{\n        padding-top: 40px;\n    padding-bottom: 60px;\n    }\n    #shopify-section-template--16484092477514__collection_list_Abj9mp .collection-list-title{\n        font-size: 50px;\n        margin-bottom: 10px;\n    }\n    #shopify-section-template--16484092477514__collection_list_Abj9mp .card__heading{\n        font-size: 30px;\n    }\n\n    #shopify-section-template--16484092477514__featured_blog_M4ktFH .title-wrapper-with-link .blog__title{\n        font-size: 50px;\n        margin-bottom: 30px;\n    }\n    #shopify-section-template--16484092477514__featured_blog_M4ktFH .blog .blog__view-all{\n        display: block!important;\n    }\n    #shopify-section-template--16484092477514__featured_blog_M4ktFH .blog .slider-buttons,\n    #shopify-section-template--16484092477514__featured_blog_M4ktFH .title-wrapper-with-link a{\n        display:none;\n    }\n    #shopify-section-template--16484092477514__featured_blog_M4ktFH .blog .blog__button{\n        font-size: 22px;\n    letter-spacing: 2px;\n    min-height: 40px;\n    margin-top: 30px;\n\n    }\n}\n\n@media screen and (max-width: 749px) {\n    #shopify-section-template--16484092477514__featured_collection_PFYGPk .section-template--16484092477514__featured_collection_PFYGPk-padding {\n        padding-top: 40px;\n        padding-bottom: 40px;\n    }\n    #shopify-section-template--16484092477514__featured_collection_PFYGPk .collection__title .title{\n        font-size: 40px;\n        padding-bottom: 5px;\n    }\n    #shopify-section-template--16484092477514__featured_collection_PFYGPk .collection__title .title:after{\n        height: 4px;\n    }\n\n\n    #shopify-section-template--16484092477514__multicolumn_RtjUhi .section-template--16484092477514__multicolumn_RtjUhi-padding {\n        padding-top: 40px;\n        padding-bottom: 40px;\n    }\n    #shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn .multicolumn-list__item{\n        width: calc(100% - var(--grid-desktop-horizontal-spacing) * 2 \/ 3);\n        max-width: calc(100% - var(--grid-desktop-horizontal-spacing) * 2 \/ 3);\n    }\n    #shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn:after{\n        width: 114px;\n    height: 149px;\n    top: -30px;\n    right: 40px;\n    }\n    #shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn .button{\n        font-size: 20px;\n        min-height:38px;\n        letter-spacing: 2px;\n    }\n#shopify-section-template--16484092477514__multicolumn_RtjUhi .multicolumn .multicolumn-list__item{\npadding: 0;\n}\n    \n\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .section-template--16484092477514__multicolumn_qp6hEV-padding{\n        padding-top: 40px;\n    padding-bottom: 40px;\n    }\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn .title-wrapper-with-link .title{\npadding-bottom: 20px;\n        font-size: 40px;\n    }\n#shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn-list .multicolumn-list__item {\n   max-width: 100%;\n    width: 100%;\n    flex: 100%;\n}\n\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn .title-wrapper-with-link{\n        margin-bottom: 35px;\n    }\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn .title-wrapper-with-link .title:after{\n        height: 4px;\n    }\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn-list .multicolumn-list__item {\n        margin-bottom: 20px;\n        padding: 0;\n    }\n    #shopify-section-template--16484092477514__multicolumn_qp6hEV .multicolumn .button{\n        font-size: 20px;\n        min-height: 38px;\n        letter-spacing: 2px;\nmargin-top:10px; \n    }\n\n\n    #shopify-section-template--16484092477514__collection_list_Abj9mp .section-template--16484092477514__collection_list_Abj9mp-padding {\n        padding-top: 40px;\n        padding-bottom: 40px;\n    }\n    #shopify-section-template--16484092477514__collection_list_Abj9mp .collection-list-title{\n        font-size: 40px;\n    margin-bottom: 0px;\n    }\n\n\n    #shopify-section-template--16484092477514__featured_blog_M4ktFH .blog.gradient{\n        background-position: left;\n    }\n    #shopify-section-template--16484092477514__featured_blog_M4ktFH .title-wrapper-with-link .blog__title{\n        font-size: 40px;\n    font-weight: normal;\n    margin-bottom: 10px;\n    }\n    #shopify-section-template--16484092477514__featured_blog_M4ktFH .section-template--16484092477514__featured_blog_M4ktFH-padding{\n        padding-top: 200px;\n        padding-bottom: 40px;\n    }\n    #shopify-section-template--16484092477514__featured_blog_M4ktFH .article.grid__item {\n        padding-left: 0;\n        margin-left: 15px;\n    }\n    #shopify-section-template--16484092477514__featured_blog_M4ktFH .blog .article-card-wrapper .card__heading{\n        font-size: 30px;\n    }\n    #shopify-section-template--16484092477514__featured_blog_M4ktFH .blog__posts .article-card .card__information {\n        padding-top: 25px;\n    }\n    #shopify-section-template--16484092477514__featured_blog_M4ktFH .blog .article-card-wrapper .article-card__excerpt{\n        margin-top: 15px;\n    }\n    #shopify-section-template--16484092477514__featured_blog_M4ktFH .blog .blog__button{\n        font-size: 20px;\n        min-height: 38px;\n        margin: 0 15px 0;\n    }\n}\n\n.contact .contact__button .button {\n    background: #bccd14;\n    color: #000;\n    border-radius: 20px;\n}\n\n#shopify-section-template--16484092477514__featured_collection_PFYGPk .quick-add button{\nbackground: #90da90;\nborder-radius: 30px;\n}\n\n#shopify-section-template--16600696881226__popup_vidio_WGjLk7 .heading_font{\nfont-family: 'AmsiProCond';\n    font-size: 60px;\nline-height: normal;\n}\n#shopify-section-template--16600696881226__featured_collection_77FTWN .title{\n text-align:center;    font-family: 'AmsiProCond';\n    font-size: 60px;\nline-height: normal;\n}\n#shopify-section-template--16600696881226__featured_collection_77FTWN .quick-add button{\nbackground: #90da90;\n    border-radius: 30px;\n}\n\n#shopify-section-template--16600696881226__image_with_content_nVVpMx .feature-row__item .heading_font{\nfont-family: 'AmsiProCond';\n}\n#shopify-section-template--16600696881226__image_with_content_nVVpMx .btn:hover{\ntext-decoration: none;\n\n}\n#shopify-section-template--16600696881226__image_hero_6iVn9b .hero__text-content  .hero__link .feature-row__text .btn:hover{\ntext-decoration: none;\n} \n#shopify-section-template--16600696881226__image_hero_jgghKF .hero__text-content  .hero__link .btn:hover{\ntext-decoration: none;\n} \n\n#shopify-section-template--16600696881226__image_hero_jgghKF .parallax-container{\n    transform: none !important; \n}\n#shopify-section-template--16600696881226__image_hero_6iVn9b .parallax-container{\n        transform: none !important;\n} \n@media screen and (max-width:989px){\n#shopify-section-template--16600696881226__popup_vidio_WGjLk7 .heading_font {\n    font-size: 40px;\n}\n#shopify-section-template--16600696881226__featured_collection_77FTWN .title {\n    font-size: 40px;\n}\n#shopify-section-template--16600696881226__featured_collection_77FTWN .grid__item{\n    flex: none;\n} \n#shopify-section-template--16600696881226__featured_collection_77FTWN .button{\nmin-height: auto; \n}\n}\n\n<\/style>",
+    "cart_type": "drawer",
+    "show_vendor": false,
+    "show_cart_note": false,
+    "colors_solid_button_labels": "#ffffff",
+    "colors_accent_1": "#121212",
+    "gradient_accent_1": "",
+    "colors_accent_2": "#334fb4",
+    "gradient_accent_2": "",
+    "colors_text": "#ffffff",
+    "colors_outline_button_labels": "#ff0000",
+    "colors_background_1": "#ffffff",
+    "gradient_background_1": "",
+    "colors_background_2": "#f3f3f3",
+    "gradient_background_2": "",
+    "sections": {
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "blocks": {
+          "announcement_yBUaJm": {
+            "type": "announcement",
+            "settings": {
+              "text": "New Year, New You: 10% off site wide with code \"approved\"",
+              "text_alignment": "center",
+              "color_scheme": "accent-2",
+              "link": "shopify:\/\/collections\/all"
+            }
+          }
+        },
+        "block_order": [
+          "announcement_yBUaJm"
+        ],
+        "settings": {}
+      },
+      "header": {
+        "type": "header",
+        "blocks": {
+          "menu_collection_RqgUKM": {
+            "type": "menu_collection",
+            "settings": {
+              "menu_name": "MEN’S",
+              "image_1": "shopify:\/\/shop_images\/stylist-wigs-min_large_5aa247ca-2f76-4699-8bde-5d7458a186c7.jpg",
+              "link_1": "shopify:\/\/collections\/body-wave",
+              "image_2": "shopify:\/\/shop_images\/full-lace-wigs-min_large_030f7010-4655-4c27-abb8-34f76008997e.png",
+              "link_2": "shopify:\/\/collections\/new",
+              "image_3": "shopify:\/\/shop_images\/newdrip-min_large_67026c6c-59e8-41fd-9e5c-57349d1266e5.jpg",
+              "link_3": "",
+              "image_4": "shopify:\/\/shop_images\/mink-bundles-min_large_04a8b784-bbc0-4df8-bd48-aeaa603095a9.jpg",
+              "link_4": "",
+              "image_5": "shopify:\/\/shop_images\/Disruptor_large_34c587a3-b2d5-4976-9d44-91b0b63e8f5b.png",
+              "link_5": ""
+            }
+          },
+          "logo_PArMXV": {
+            "type": "logo",
+            "settings": {
+              "logo-svg": "",
+              "desktop_logo_width": 130,
+              "mobile_logo_width": 70
+            }
+          },
+          "css_6DCTwz": {
+            "type": "css",
+            "settings": {
+              "css": ".site-header{\n    background: #f2f3ec;\npadding:10px 0;\n}\n.site-nav__link{\ncolor:#000; \ntext-transform: uppercase;\npadding-left:20px;\npadding-right:20px;\nfont-family: 'CocogooseProTrial Semilight';\n    font-weight: normal;\nletter-spacing: normal;\n}\n.site-header__logo{\nmargin:0;\n}\n.site-nav__link:hover{\ncolor:#000; \n}\n.site-nav__link--underline:after{\nborder-color:#000;\n}\n.drawer, .mobile-nav&gt;.mobile-nav__item{\nbackground-color:#f2f3ec;\n}\n.mobile-nav__link{\nfont-family: 'CocogooseProTrial Semilight';\n    text-transform: uppercase;\n    font-size: 1em;\n}\n.drawer__inner .mobile-nav__link, .drawer__close-button, .mobile-nav__social a{\ncolor:#000!important;\n}\n.mobile-nav__item:after, .drawer__header, .mobile-nav__social-item{\nborder-color:#000;\n}\n.header-item .icon-hamburger path{\nstroke-width: 1.5px;\n}\n.site-nav__link--icon\n.icon.icon-hamburger{\nwidth: 22px;\n    height: 22px;\n}\n.site-nav__link--icon\n.icon.icon-bag{\nwidth: 25px;\n    height: 25px;\n}\n.drawer_logo{\ndisplay:none;\n}\n@media screen and (max-width: 989px){\n.site-nav__link{\npadding-left:10px;\npadding-right:10px;\n}\n}\n.header__icon--cart .icon path{\nstroke-width: 1px;\n    stroke: #000!important;\n}"
+            }
+          }
+        },
+        "block_order": [
+          "menu_collection_RqgUKM",
+          "logo_PArMXV",
+          "css_6DCTwz"
+        ],
+        "settings": {
+          "main_menu_link_list": "main-menu",
+          "main_menu_alignment": "left-center",
+          "header_style": "normal",
+          "sticky_index": true,
+          "above_announcement": false,
+          "full_width": false,
+          "sticky_collection": true,
+          "header_search_enable": false,
+          "toolbar_menu": "",
+          "toolbar_social": false,
+          "toolbar_currencies": false,
+          "announcement_compact": false
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "menu_CVTrJg": {
+            "type": "menu",
+            "settings": {
+              "show_footer_title": false,
+              "menu": "footer",
+              "container_width": 30
+            }
+          },
+          "newsletter_QgbqEm": {
+            "type": "newsletter",
+            "settings": {
+              "show_footer_title": true,
+              "title": "Join our mailing list and <span class=\"heading_inner\"> stay updated<\/span>",
+              "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>",
+              "container_width": 40
+            }
+          },
+          "logo_social_Ux9Pjw": {
+            "type": "logo_social",
+            "settings": {
+              "desktop_logo_height": 120,
+              "container_width": 30
+            }
+          }
+        },
+        "block_order": [
+          "menu_CVTrJg",
+          "newsletter_QgbqEm",
+          "logo_social_Ux9Pjw"
+        ],
+        "settings": {
+          "show_payment_icons": true,
+          "show_copyright": true,
+          "copyright_text": "",
+          "css": ".site-footer{\nborder:none; \n}\n\n.site-footer__linklist a{\nfont-family: 'texgyreadventorregular';\n    color: #9b9b9b;\n    text-transform: uppercase;\n    letter-spacing: 2px;\n\n}\n.site-footer #Footer-newsletter_QgbqEm .footer__collapsible{\nfont-size:16px; \n}\n.footer__title {\nfont-family: 'AmsiProCond';\n    font-size: 28px;\n    font-weight: normal;\nletter-spacing: 1px;\n}\n.footer__title .heading_inner{\nfont-family: 'AmsiProCond-Black';\n}\n@media screen and (max-width: 768px){\n.site-footer__linklist li{\n        font-size: 16px;\n    }\n    .footer__title{\n        font-size: 22px;\n    }\n}"
+        }
+      },
+      "main-password-header": {
+        "type": "main-password-header",
+        "settings": {
+          "logo": "{{ shop.brand.logo }}",
+          "logo_max_width": 100,
+          "color_scheme": "background-1"
+        }
+      },
+      "main-password-footer": {
+        "type": "main-password-footer",
+        "settings": {
+          "color_scheme": "background-1"
+        }
+      },
+      "Loader": {
+        "type": "Loader",
+        "settings": {
+          "activate": false,
+          "brand_logo_svg": "",
+          "logo_width": 60,
+          "mobile_logo_width": 90,
+          "animation": "fadeInUp",
+          "trace": false,
+          "background_color": "#f2f3ec",
+          "background_color_2": "#f2f3ec",
+          "css": ""
+        }
+      },
+      "about-us": {
+        "type": "about-us",
+        "blocks": {
+          "section_hXGfwA": {
+            "type": "Section",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Copy_of_FM3A4688.jpg",
+              "mp4": "",
+              "youtube_url": "",
+              "width": 50,
+              "layout": "right",
+              "layout_mobile": "top",
+              "title": "Juicing For Humanity.",
+              "font": "montserrat_n5",
+              "fontsize": 40,
+              "title_color": "#1c1d1d",
+              "content": "<p>Our mission is to ensure that quality is never sacrificed at the expense of competitive prices. We know that every product counts, and we strive to make the entire shopping experience as rewarding as possible. Check us out for yourself, follow us on social media and join the tribe.<br\/><\/p>",
+              "background1": "#ddded7",
+              "background2": "#f2f3ec",
+              "button_link": "shopify:\/\/collections\/all",
+              "button_label": "GET STARTED",
+              "button_color": "#000000",
+              "button_background": "#bccd14"
+            }
+          },
+          "section_BmBUeN": {
+            "type": "Section",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Copy_of_FM3A4665.jpg",
+              "mp4": "",
+              "youtube_url": "",
+              "width": 50,
+              "layout": "left",
+              "layout_mobile": "top",
+              "title": "GET TO KNOW US.",
+              "font": "montserrat_n5",
+              "fontsize": 40,
+              "title_color": "#000000",
+              "content": "<p>Every bottle reflects the dedication and passion of our small-business founders, a husband and wife duo who believe in health, flavor, and community who also brought their sister in to help grow the business. They travel far to source the finest tropical ingredients, ensuring that every sip is as nutritious as it is delicious. This juice isn't mass-produced—it’s handmade with care, delivering an authentic experience you can trust. By choosing Divine Luminance, you support a family-owned business committed to quality, wellness, and sustainable living.<\/p>",
+              "background1": "#f2f3ec",
+              "background2": "#ddded7",
+              "button_link": "shopify:\/\/pages\/contact",
+              "button_label": "contact us",
+              "button_color": "#000000",
+              "button_background": "#bccd14"
+            }
+          }
+        },
+        "block_order": [
+          "section_hXGfwA",
+          "section_BmBUeN"
+        ],
+        "settings": {
+          "css": ""
+        }
+      },
+      "FAQ": {
+        "type": "FAQ",
+        "blocks": {
+          "faq_iUyByk": {
+            "type": "Faq",
+            "settings": {
+              "title": "What is fresh pressed juice?",
+              "answer": "<p>Fresh pressed juice is made by extracting the juice from fruits and vegetables using a hydraulic press, which preserves more nutrients and enzymes compared to traditional juicing methods. <\/p>"
+            }
+          },
+          "faq_rLQgP3": {
+            "type": "Faq",
+            "settings": {
+              "title": "How long does fresh pressed juice last?",
+              "answer": "<p>Fresh pressed juice is best consumed within 5 days when stored properly in a refrigerator. However, for optimal flavor and nutrient retention, it’s recommended to drink it as soon as possible. If you are unable to drink juices upon receipt, place them in the freezer for up to nine months and enjoy them later.  When ready to consume, remove juices from the freezer and thaw in the refrigerator or at room temperature and consume within 4 days. <\/p>"
+            }
+          },
+          "faq_PBib8W": {
+            "type": "Faq",
+            "settings": {
+              "title": "Are your ingredients organic?",
+              "answer": "<p>We strive to use organic and natural produce whenever possible to ensure the quality and safety of our juices. However, some ingredients may vary based on availability. We also have a thorough cleaning process with our produce. <\/p>"
+            }
+          },
+          "faq_wVp6VU": {
+            "type": "Faq",
+            "settings": {
+              "title": "Can I customize my juice order?",
+              "answer": "<p>Absolutely! We offer a variety of ingredients for our juices, and you can customize your order based on your taste preferences and nutritional needs. <\/p>"
+            }
+          },
+          "faq_i7RqkM": {
+            "type": "Faq",
+            "settings": {
+              "title": "Are your juices pasteurized?",
+              "answer": "<p>No, our juices are raw and unpasteurized to retain the maximum amount of nutrients. We recommend that you consume them quickly to ensure freshness and safety. <\/p>"
+            }
+          },
+          "faq_wCpyU9": {
+            "type": "Faq",
+            "settings": {
+              "title": "What are the health benefits of fresh pressed juice?",
+              "answer": "<p>Fresh pressed juices are packed with vitamins, minerals, and antioxidants. They can help boost your immune system, improve digestion, and provide a convenient way to increase your fruit and vegetable intake. <\/p>"
+            }
+          },
+          "faq_4pp3F6": {
+            "type": "Faq",
+            "settings": {
+              "title": "Can I subscribe for regular juice orders?",
+              "answer": "<p>Yes, we offer subscription plans for regular juice orders. You can choose the frequency and types of juices you want to receive. <\/p>"
+            }
+          },
+          "faq_79mPwc": {
+            "type": "Faq",
+            "settings": {
+              "title": "Are there any allergens in your juices?",
+              "answer": "<p>We take allergen management seriously. Please refer to our ingredient list or contact us directly if you have concerns about specific allergens. <\/p>"
+            }
+          },
+          "faq_LFX8RR": {
+            "type": "Faq",
+            "settings": {
+              "title": "How should I store my fresh pressed juice?",
+              "answer": "<p>To maintain freshness, store your juice in the refrigerator in a sealed container. Avoid exposure to light and heat to preserve the nutrients. Our best recommendation is to store the juices in the back of the refrigerator at regulated temperature.<\/p>"
+            }
+          },
+          "faq_383VVG": {
+            "type": "Faq",
+            "settings": {
+              "title": "What types of juices do you offer?",
+              "answer": "<p>We offer a variety of fresh pressed juices made from fruits and vegetables, including classic combinations and unique blends. Seasonal offerings may also be available.<\/p>"
+            }
+          },
+          "faq_GBPaCC": {
+            "type": "Faq",
+            "settings": {
+              "title": "Do you offer juice cleanses?",
+              "answer": "<p>Yes, we provide juice cleanse programs that include a selection of juices designed for specific durations, such as three or five days. <\/p>"
+            }
+          },
+          "faq_7XnYjU": {
+            "type": "Faq",
+            "settings": {
+              "title": "What is your return or refund policy?",
+              "answer": "<p>Due to the perishable nature of our products, we do not offer returns. However, if there are any issues with your order, please contact us, and we will do our best to assist you. <\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "faq_iUyByk",
+          "faq_rLQgP3",
+          "faq_PBib8W",
+          "faq_wVp6VU",
+          "faq_i7RqkM",
+          "faq_wCpyU9",
+          "faq_4pp3F6",
+          "faq_79mPwc",
+          "faq_LFX8RR",
+          "faq_383VVG",
+          "faq_GBPaCC",
+          "faq_7XnYjU"
+        ],
+        "custom_css": [
+          ".tab-label {color: #000;}"
+        ],
+        "settings": {
+          "button_background_color": "#f2f3ec",
+          "color": "#1c1d1d"
+        }
+      }
+    },
+    "content_for_index": []
+  },
+  "presets": {
+    "Default": {
+      "colors_solid_button_labels": "#ffffff",
+      "colors_accent_1": "#121212",
+      "gradient_accent_1": "",
+      "colors_accent_2": "#334fb4",
+      "gradient_accent_2": "",
+      "colors_text": "#121212",
+      "colors_outline_button_labels": "#121212",
+      "colors_background_1": "#ffffff",
+      "gradient_background_1": "",
+      "colors_background_2": "#f3f3f3",
+      "gradient_background_2": "",
+      "type_header_font": "assistant_n4",
+      "heading_scale": 100,
+      "type_body_font": "assistant_n4",
+      "body_scale": 100,
+      "page_width": 1200,
+      "spacing_sections": 0,
+      "spacing_grid_horizontal": 8,
+      "spacing_grid_vertical": 8,
+      "buttons_border_thickness": 1,
+      "buttons_border_opacity": 100,
+      "buttons_radius": 0,
+      "buttons_shadow_opacity": 0,
+      "buttons_shadow_horizontal_offset": 0,
+      "buttons_shadow_vertical_offset": 4,
+      "buttons_shadow_blur": 5,
+      "variant_pills_border_thickness": 1,
+      "variant_pills_border_opacity": 55,
+      "variant_pills_radius": 40,
+      "variant_pills_shadow_opacity": 0,
+      "variant_pills_shadow_horizontal_offset": 0,
+      "variant_pills_shadow_vertical_offset": 4,
+      "variant_pills_shadow_blur": 5,
+      "inputs_border_thickness": 1,
+      "inputs_border_opacity": 55,
+      "inputs_radius": 0,
+      "inputs_shadow_opacity": 0,
+      "inputs_shadow_horizontal_offset": 0,
+      "inputs_shadow_vertical_offset": 4,
+      "inputs_shadow_blur": 5,
+      "card_style": "standard",
+      "card_image_padding": 0,
+      "card_text_alignment": "left",
+      "card_color_scheme": "background-2",
+      "card_border_thickness": 0,
+      "card_border_opacity": 10,
+      "card_corner_radius": 0,
+      "card_shadow_opacity": 0,
+      "card_shadow_horizontal_offset": 0,
+      "card_shadow_vertical_offset": 4,
+      "card_shadow_blur": 5,
+      "collection_card_style": "standard",
+      "collection_card_image_padding": 0,
+      "collection_card_text_alignment": "left",
+      "collection_card_color_scheme": "background-2",
+      "collection_card_border_thickness": 0,
+      "collection_card_border_opacity": 10,
+      "collection_card_corner_radius": 0,
+      "collection_card_shadow_opacity": 0,
+      "collection_card_shadow_horizontal_offset": 0,
+      "collection_card_shadow_vertical_offset": 4,
+      "collection_card_shadow_blur": 5,
+      "blog_card_style": "standard",
+      "blog_card_image_padding": 0,
+      "blog_card_text_alignment": "left",
+      "blog_card_color_scheme": "background-2",
+      "blog_card_border_thickness": 0,
+      "blog_card_border_opacity": 10,
+      "blog_card_corner_radius": 0,
+      "blog_card_shadow_opacity": 0,
+      "blog_card_shadow_horizontal_offset": 0,
+      "blog_card_shadow_vertical_offset": 4,
+      "blog_card_shadow_blur": 5,
+      "text_boxes_border_thickness": 0,
+      "text_boxes_border_opacity": 10,
+      "text_boxes_radius": 0,
+      "text_boxes_shadow_opacity": 0,
+      "text_boxes_shadow_horizontal_offset": 0,
+      "text_boxes_shadow_vertical_offset": 4,
+      "text_boxes_shadow_blur": 5,
+      "media_border_thickness": 1,
+      "media_border_opacity": 5,
+      "media_radius": 0,
+      "media_shadow_opacity": 0,
+      "media_shadow_horizontal_offset": 0,
+      "media_shadow_vertical_offset": 4,
+      "media_shadow_blur": 5,
+      "popup_border_thickness": 1,
+      "popup_border_opacity": 10,
+      "popup_corner_radius": 0,
+      "popup_shadow_opacity": 0,
+      "popup_shadow_horizontal_offset": 0,
+      "popup_shadow_vertical_offset": 4,
+      "popup_shadow_blur": 5,
+      "drawer_border_thickness": 1,
+      "drawer_border_opacity": 10,
+      "drawer_shadow_opacity": 0,
+      "drawer_shadow_horizontal_offset": 0,
+      "drawer_shadow_vertical_offset": 4,
+      "drawer_shadow_blur": 5,
+      "badge_position": "bottom left",
+      "badge_corner_radius": 40,
+      "sale_badge_color_scheme": "accent-2",
+      "sold_out_badge_color_scheme": "inverse",
+      "accent_icons": "text",
+      "social_twitter_link": "",
+      "social_facebook_link": "",
+      "social_pinterest_link": "",
+      "social_instagram_link": "",
+      "social_tiktok_link": "",
+      "social_tumblr_link": "",
+      "social_snapchat_link": "",
+      "social_youtube_link": "",
+      "social_vimeo_link": "",
+      "predictive_search_enabled": true,
+      "predictive_search_show_vendor": false,
+      "predictive_search_show_price": false,
+      "currency_code_enabled": true,
+      "cart_type": "notification",
+      "show_vendor": false,
+      "show_cart_note": false,
+      "sections": {
+        "announcement-bar": {
+          "type": "announcement-bar",
+          "blocks": {
+            "announcement-bar-0": {
+              "type": "announcement",
+              "settings": {
+                "text": "Welcome to our store",
+                "text_alignment": "center",
+                "color_scheme": "background-1",
+                "link": ""
+              }
+            }
+          },
+          "block_order": [
+            "announcement-bar-0"
+          ],
+          "settings": {}
+        },
+        "header": {
+          "type": "header",
+          "settings": {}
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "link_list",
+              "settings": {
+                "menu": "footer"
+              }
+            },
+            "footer-1": {
+              "type": "link_list",
+              "settings": {
+                "menu": "footer"
+              }
+            },
+            "footer-2": {
+              "type": "text",
+              "settings": {
+                "heading": "Our mission",
+                "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+              }
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1",
+            "footer-2"
+          ],
+          "settings": {}
+        },
+        "main-password-header": {
+          "type": "main-password-header",
+          "settings": {
+            "logo": "{{ shop.brand.logo }}",
+            "logo_max_width": 100,
+            "color_scheme": "background-1"
+          }
+        },
+        "main-password-footer": {
+          "type": "main-password-footer",
+          "settings": {
+            "color_scheme": "background-1"
+          }
+        }
+      }
+    }
+  }
+}
