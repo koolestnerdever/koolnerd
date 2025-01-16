@@ -1,0 +1,235 @@
+{%- style -%}
+  .section-{{ section.id }}-padding {
+    padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}px;
+    padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-{{ section.id }}-padding {
+      padding-top: {{ section.settings.padding_top }}px;
+      padding-bottom: {{ section.settings.padding_bottom }}px;
+    }
+  }
+  {% if section.settings.background_image != blank %}
+  .{{ section.id }}.product-tab{
+    background-image: url({{section.settings.background_image | img_url:'master'}});
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: unset;
+  }
+      {% endif %}}
+{%- endstyle -%}
+<section class="{{ section.id }} product-tab section-{{ section.id }}-padding">
+  <div class="page-width">
+  {%- unless section.settings.title == blank -%}
+      <div class="title-wrapper-with-link title-wrapper--self-padded-mobile title-wrapper--no-top-margin">
+        <h2 class="title {{ section.settings.heading_size }}">
+          {{ section.settings.title }}
+        </h2>
+        {%- if section.settings.button_label != blank and show_mobile_slider -%}
+          <a href="{{ section.settings.button_link }}" class="link underlined-link large-up-hide">{{ section.settings.button_label | escape }}</a>
+        {%- endif -%}
+      </div>
+    {%- endunless -%}
+    <div class="center tab_heading">
+      {%- for block in section.blocks -%}
+        <div class="product_title {% if forloop.first %}select_product_option_name{% endif %}" data-id="product_{{ block.id }}">
+          {{ block.settings.title }}
+        </div>
+      {% endfor %}
+    </div>
+  <div class="product_details">
+    {%- for block in section.blocks -%}
+      <div class="product_contain {% if forloop.first%}show_product{% endif %}" data-id="product_{{ block.id }}">
+        <div class="grid grid--2-col">
+          <div class="grid__item product_description">
+            {% if block.settings.Heading_one != blank or block.settings.paragraph_one != blank %}
+            <div class="product_des_one">
+              {% if block.settings.Heading_one != blank %}
+            <h3>
+              {{ block.settings.Heading_one }}
+            </h3>
+              {% endif %}
+              {% if block.settings.paragraph_one != blank %}
+            <div>{{ block.settings.paragraph_one }}</div>
+              {% endif %}
+            </div>
+            {% endif %}
+            {% if block.settings.Heading_two != blank or block.settings.paragraph_two != blank %}
+            <div class="product_des_two">
+              {% if block.settings.Heading_two != blank %}
+            <h3>
+              {{ block.settings.Heading_two }}
+            </h3>
+              {% endif %}
+              {% if block.settings.paragraph_two != blank %}
+            <div>{{ block.settings.paragraph_two }}</div>
+              {% endif %}
+            </div>
+            {% endif %}
+            
+          </div>
+          <div class="grid__item">
+            <div class="product_image">
+            {%- if block.settings.image != blank -%}
+                {%- capture sizes -%}(min-width: 990px) {% if section.blocks.size <= 2 %}710px{% else %}550px{% endif %}, (min-width: 750px) {% if section.blocks.size == 1 %}710px{% else %}550px{% endif %}, calc(100vw - 30px){%- endcapture -%}
+                    {{ block.settings.image | image_url: width: 1420 | image_tag:
+                      loading: 'lazy',
+                      sizes: sizes,
+                      widths: '275, 550, 710, 1420'
+                    }}
+              {%- endif -%}
+            </div>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+  </div>
+</section>
+
+{% schema %}
+  {
+    "name": "Product tab",
+    "class":"product_tab_section",
+    "settings": [
+      {
+      "type": "html",
+      "id": "title",
+      "default": "Key ingredients",
+      "label": "t:sections.multicolumn.settings.title.label"
+    },
+    {
+      "type": "select",
+      "id": "heading_size",
+      "options": [
+        {
+          "value": "h2",
+          "label": "t:sections.all.heading_size.options__1.label"
+        },
+        {
+          "value": "h1",
+          "label": "t:sections.all.heading_size.options__2.label"
+        },
+        {
+          "value": "h0",
+          "label": "t:sections.all.heading_size.options__3.label"
+        }
+      ],
+      "default": "h1",
+      "label": "t:sections.all.heading_size.label"
+    },
+      {
+            "type": "image_picker",
+            "id": "background_image",
+            "label": "Background image"
+          },
+      {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_top",
+      "default": 36
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_bottom",
+      "default": 36
+    }
+    ],
+    "blocks": [
+      {
+        "type": "column",
+        "name": "t:sections.multicolumn.blocks.column.name",
+        "settings": [
+          {
+            "type": "text",
+            "id":"title",
+            "label":"Title"
+          },
+          {
+            "type": "image_picker",
+            "id": "image",
+            "label": "t:sections.multicolumn.blocks.column.settings.image.label"
+          },
+          {
+            "type": "text",
+            "id":"Heading_one",
+            "label":"Heading"
+          },
+          {
+            "type": "richtext",
+            "id":"paragraph_one",
+            "label":"paragraph"
+          },
+          {
+            "type": "text",
+            "id":"Heading_two",
+            "label":"Heading"
+          },
+          {
+            "type": "richtext",
+            "id":"paragraph_two",
+            "label":"Heading"
+          }
+        ]
+      }
+    ],
+    "presets": [
+    {
+      "name": "Product tab",
+      "blocks": [
+        {
+          "type": "column"
+        },
+        {
+          "type": "column"
+        },
+        {
+          "type": "column"
+        }
+      ]
+    }
+  ]
+  }
+{% endschema %}
+<script>
+    var tab = document.querySelectorAll(".product_title");
+  var product = document.querySelectorAll(".product_contain");
+    for (i = 0; i < tab.length; i++) {
+      tab[i].addEventListener("click", function() {
+    
+        var tab_id = this.getAttribute("data-id");
+         var name = document.querySelectorAll(".product_title");
+          name.forEach((element) => {
+            element.classList.remove("select_product_option_name");
+          });
+
+         this.classList.add("select_product_option_name");
+        
+        var collection = document.querySelectorAll(".product_contain");
+          collection.forEach((element) => {
+            element.classList.remove("show_product");
+          }); 
+        
+        for (a = 0; a < product.length; a++) {
+          var pro_id = product[a].getAttribute("data-id");
+          if( tab_id == pro_id ){
+            product[a].classList.add("show_product");
+          }
+        }
+
+      });
+    }
+</script>
