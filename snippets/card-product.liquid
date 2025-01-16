@@ -123,6 +123,13 @@
               >
                 {{- 'products.product.sold_out' | t -}}
               </span>
+              {%  elsif card_product.metafields.custom.tag_name != blank %}  
+                <span
+                id="Badge-{{ section_id }}-{{ card_product.id }}"
+                class="badge custom_badge badge--bottom-left"
+              >
+                {{ card_product.metafields.custom.tag_name }}
+              </span>   
             {%- elsif card_product.compare_at_price > card_product.price and card_product.available -%}
               <span
                 id="NoMediaStandardBadge-{{ section_id }}-{{ card_product.id }}"
@@ -306,11 +313,19 @@
             >
               {{- 'products.product.sold_out' | t -}}
             </span>
+            {%  elsif product.metafields.custom.tag_name != blank %}  
+              <span
+              id="Badge-{{ section_id }}-{{ card_product.id }}"
+              class="badge custom_badge badge--bottom-left"
+            >
+              {{ product.metafields.custom.tag_name }}
+            </span>     
           {%- elsif card_product.compare_at_price > card_product.price and card_product.available -%}
             <span
               id="Badge-{{ section_id }}-{{ card_product.id }}"
               class="badge badge--bottom-left color-{{ settings.sale_badge_color_scheme }}"
             >
+            {{ product.metafields.custom.tag_name }}
               {{- 'products.product.on_sale' | t -}}
             </span>
           {%- endif -%}

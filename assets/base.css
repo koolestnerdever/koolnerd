@@ -9,8 +9,7 @@
 
 .color-background-2 {
   --color-foreground: var(--color-base-text);
-  --color-background: var(--color-base-background-2);
-  --gradient-background: var(--gradient-base-background-2);
+  --color-background: var(--color-base-background-2);--gradient-background: var(--gradient-base-background-2);
 }
 
 .color-inverse {
@@ -3086,4 +3085,9 @@ details-disclosure > details {
     margin: 0;
     border-radius: 0;
   color:#fff;
+}
+.custom_badge{
+  background-color: #F44336;
+  color: #fff;
+  border-color: #F44336;
 }
