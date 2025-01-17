@@ -19,31 +19,22 @@
         {%- assign is_megamenu = true -%}
       {% endif %}
     {% endif %}
-    {%  assign collection_menu = false %} 
-    {% for block in section.blocks %}
-      {% if block.type == 'menu_collection' %}
-        {% if link.title == block.settings.menu_name %}
-          {%  assign collection_menu = true %}
-        {% endif %}
-    {% endif %}
-    {% endfor %}
     <li
-      class="site-nav__item site-nav__expanded-item{% if has_dropdown or collection_menu %} site-nav--has-dropdown{% endif %}{% if is_megamenu %} site-nav--is-megamenu{% endif %}"
+      class="site-nav__item site-nav__expanded-item{% if has_dropdown or forloop.index == 1 %} site-nav--has-dropdown{% endif %}{% if is_megamenu %} site-nav--is-megamenu{% endif %}"
       {% if has_dropdown %}aria-haspopup="true"{% endif %}>
 
-      <a href="{{ link.url }}" class="site-nav__link site-nav__link--underline{% if has_dropdown or collection_menu %} site-nav__link--has-dropdown{% endif %}">
+      <a href="{{ link.url }}" class="site-nav__link site-nav__link--underline{% if has_dropdown or forloop.index == 1 %} site-nav__link--has-dropdown{% endif %}">
         {{ link.title }} 
-               {% if has_dropdown or collection_menu %}
+               {% if has_dropdown or forloop.index == 1 %}
                   {% include 'icon-chevron-down' %}
                 {% endif %}
       </a>    
-      {% if collection_menu and forloop.index == 1 %}
+      {% if forloop.index == 1 %}
         <ul class="collection_menu_main_cover site-nav__dropdown text-left">
           <div class="dropdown-inner">
               <div class="row collection_menu_inner">
                 {% for block in section.blocks %}
                   {% if block.type == 'menu_collection' %}
-                    {% if link.title == block.settings.menu_name %}
                       {% if block.settings.image_1 != blank %}
                         <li class="collection_menu_image_cover">
                             <a href="{{ block.settings.link_1 }}" class="collection_menu_link">
@@ -80,7 +71,6 @@
                         </li>
                       {% endif %}
                     {% endif %}
-                  {% endif %}
                 {% endfor %}
             </div>
           </div>

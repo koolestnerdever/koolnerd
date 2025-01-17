@@ -973,3 +973,13 @@ if(document.body.classList.contains('template-product')){
      document.querySelector('.product__info-wrapper .product-form .product-form__submit').click();
   });
 }
+
+$(".menu_tab").click(function(e) {
+  e.preventDefault();
+  var tabify = $(this).attr('id');
+  $(".menu_tab").removeClass('menu_active_tab');
+  $(this).addClass('menu_active_tab');
+   $(".drawer__inner ").removeClass('active_tabify_drawer');
+  $(".drawer__inner."+tabify).addClass('active_tabify_drawer');
+
+});

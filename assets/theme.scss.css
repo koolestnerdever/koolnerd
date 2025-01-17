@@ -2576,7 +2576,9 @@ symbol.icon:not(.icon--full-color) rect {
   width: 100%;
   padding: 11.53846px 0;
   margin-bottom: 0;
-  border-bottom: 1px solid white; }
+  padding-bottom: 0;
+  /* border-bottom: 1px solid white; */
+ }
   @media only screen and (min-width: 769px) {
     .drawer__header {
       height: 119px; } }
@@ -2639,7 +2641,7 @@ symbol.icon:not(.icon--full-color) rect {
 /*================ Drawer content ================*/
 .drawer__inner {
   position: absolute;
-  top: 70px;
+  top: 96px;
   bottom: 0;
   left: 0;
   right: 0;

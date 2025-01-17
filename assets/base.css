@@ -3152,3 +3152,40 @@ details-disclosure > details {
   flex: 0 0 33.33%;
   padding-right: 0;
 }
+/* drawer */
+.drawer .menu_tabs_cover{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.drawer .menu_tab{
+  width: 50%;
+  text-align: center;
+  padding: 10px 0;
+  color: #00000080;
+  font-weight: 600;
+  border-bottom: 3px solid transparent;
+  -webkit-transition: color .3s ease-out, border-color .3s ease-out;
+  -moz-transition: color .3s ease-out, border-color .3s ease-out;
+  transition: color .3s ease-out, border-color .3s ease-out;
+}
+.drawer .menu_tab.menu_active_tab{
+  border-bottom: 3px solid #000;
+  color: #000000;
+}
+.drawer .menu_title_close_cover{
+  padding-bottom: 10px;
+}
+.drawer .menu_tabs_cover{
+  border-top: 1px solid #000000;
+}
+.drawer .drawer_collection_menu_image_cover{
+  margin-bottom: 15px;
+}
+.drawer .drawer_collection_menu_image_cover img{
+  display: block;
+  height: :100%;
+}
+.drawer__inner:not(.active_tabify_drawer) {
+  display: none;
+}
